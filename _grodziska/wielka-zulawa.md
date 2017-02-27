@@ -1,0 +1,28 @@
+---
+nazwa: Wielka Żuława
+opis: "Grodzisko, w okresie przedwojennym znane pod nazwą Scholtenberg, położone jest w południowo-wschodniej części wyspy Wielka Żuława na jeziorze Jeziorak, na wysokim brzegu stromo opadającym do jeziora. Grodzisko wymieniane jest w literaturze polskiej i niemieckiej z końca XIX i początku XX wieku , jest ono także zaznaczone na mapie grodzisk opracowanej przez W. Antoniewicza i Z. Wartołowską. Wpisane zostało do rejestru zabytków w roku 1986."
+kontekst:
+ - img: "ryc4.jpg"
+   desc: "Iława, st. 33, wyspa Wielka Żuława. Widok obecny grodziska od strony południowo-zachodniej. Fot. Z. Kobyliński."
+ - img: "ryc5.jpg"
+   desc: "Iława, st. 33, wyspa Wielka Żuława. Widok grodziska od strony południowo-wschodniej z widocznymi elementami ośrodka wypoczynkowego. Fot. Ł. Łasiński 2010."
+ - img: "ryc15.jpg"
+   desc: "Iława, st. 33, wyspa Wielka Żuława. Widok na fragment fosy otaczającej grodzisko od północnego-wschodu. Fot. Z. Kobyliński."
+ - img: "ryc16.jpg"
+   desc: "Iława, st. 33, wyspa Wielka Żuława. Widok na fragment fosy otaczającej grodzisko od zachodu. Fot. Z. Kobyliński."
+badania:
+ - img: "ryc6.jpg"
+   desc: "Iława, st. 33, wyspa Wielka Żuława. Wykop 2: kamienny bruk posadzki budynku częściowo zniszczony obudową grobu i kwatery cmentarnej. Fot. J. Wysocki."
+ - img: "ryc7.jpg"
+   desc: "Iława, st. 33, wyspa Wielka Żuława. Wykop 6, 6a, 6b: widoczne resztki instalacji, których wkopy zniszczyły struktury zabytkowe. Fot. J. Wysocki."
+ - img: "ryc9.jpg"
+   desc: "Iława, st. 33, wyspa Wielka Żuława. Wykop 1: bruk posadzki ograniczony drewnianą belką (podwalinową?). Fot. J. Wysocki."
+ - img: "ryc13.jpg"
+   desc: "Iława, st. 33, wyspa Wielka Żuława. Wykop 3: sondaż w części wschodniej wykopu z warstwami pożarowymi. Fot. J. Wysocki."
+ - img: "ryc14.jpg"
+   desc: "Iława, st. 33, wyspa Wielka Żuława. Wykop 3: warstwy pożarowe we wschodniej ścianie wykopu. Fot. J. Wysocki."
+ - img: "ryc17.jpg"
+   desc: "Iława, st. 33, wyspa Wielka Żuława. Wykop 4: przekrój przez fosę, ściana W wykopu. Fot. J. Wysocki."
+ - img: "ryc18.jpg"
+   desc: "Iława, st. 33, wyspa Wielka Żuława. Wykop 4: przekrój przez fosę, ściana E wykopu z kamieniami z osuwiska stożka gródka. Fot. J. Wysocki."
+---
