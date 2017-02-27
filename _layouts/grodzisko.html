@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+{% include head.html %}
+
+<body>
+  {% include gtm.html %}
+  <div class="main-wrapper">
+    {% include nav.html %}
+
+    <!-- PAGE TITLE -->
+    <section class="pageTitle" style="background-image:url({{ "/assets/img/pages/page-title-bg3.jpg" | prepend: site.baseurl }});">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="titleTable">
+              <div class="titleTableInner">
+                <div class="pageTitleInfo">
+                  <h1>{{ page.nazwa }}</h1>
+                  <div class="under-border"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- PAGE CONTENT -->
+    <section class="mainContentSection singlePackage">
+      <div class="container">
+        <div class="row countryTitle">
+          <div class="col-sm-8 col-xs-12">
+            <div id="package-carousel" class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+                {% for b in page.kontekst %}
+                  {% if forloop.first %}
+                    <div class="item active">
+                  {% else %}
+                    <div class="item">
+                  {% endif %}
+                  <img alt="{{ b.desc }}" src="{{ "/grodziska/wielka_zulawa/img/" | prepend: site.baseurl | append: b.img }}">
+                </div>
+                {% endfor %}
+              </div>
+              <a class="left carousel-control" href="#package-carousel" data-slide="prev"><span class="glyphicon glyphicon-menu-left"></span></a>
+              <a class="right carousel-control" href="#package-carousel" data-slide="next"><span class="glyphicon glyphicon-menu-right"></span></a>
+            </div>
+          </div>
+          <div class="col-sm-4 col-xs-12">
+            <aside>
+              <div class="weatherInfo">
+                <img src="{{ "/assets/img/cities/weather-bg.png" | prepend: site.baseurl }}" alt="image">
+                <div class="cityWeather">
+                  <div class="cityTable">
+                    <div class="cityTableInner">
+                      <div class="cityWeatherInfo">
+                        <img src="{{ "/assets/img/icons/cloud.png" | prepend: site.baseurl }}">
+                        <h2>28<sup>0</sup></h2>
+                        <p>France, Paris</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="dayTime">
+                  <span class="pull-left">April 20, 2016</span>
+                  <span class="pull-right">Monday</span>
+                </div>
+                <div class="daysWeather">
+                  <ul class="list-inline">
+                    <li>Tue <span><img src="{{ "/assets/img/icons/cloud-rain.png" | prepend: site.baseurl }}" alt="image"></span>18<sup>0</sup></li>
+                    <li>Wed <span><img src="{{ "/assets/img/icons/sun.png" | prepend: site.baseurl }}" alt="image"></span>25<sup>0</sup></li>
+                    <li>Thu <span><img src="{{ "/assets/img/icons/cloud-sm.png" | prepend: site.baseurl }}" alt="image"></span>22<sup>0</sup></li>
+                  </ul>
+                </div>
+              </div>
+            </aside>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12">
+            <div role="tabpanel" class="countryTabs">
+              <!-- Nav tabs -->
+              <ul class="nav nav-tabs" role="tablist">
+                <li role="presentation" class="active">
+                  <a href="#over-view" aria-controls="over-view" role="tab" data-toggle="tab">OVER VIEW</a>
+                </li>
+                <li role="presentation">
+                  <a href="#tour-guide" aria-controls="tour-guide" role="tab" data-toggle="tab">Tour guide</a>
+                </li>
+                <li role="presentation">
+                  <a href="#location-map" aria-controls="location-map" role="tab" data-toggle="tab">location map</a>
+                </li>
+                <li class="pull-right">
+                  <ul class="list-inline">
+                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                    <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                    <li><a href="#"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
+                    <li><a href="#"><i class="fa fa-vimeo" aria-hidden="true"></i></a></li>
+                  </ul>
+                </li>
+              </ul>
+
+              <!-- Tab panes -->
+              <div class="tab-content">
+                <div role="tabpanel" class="tab-pane active" id="over-view">
+                  <div class="row">
+                    <div class="col-sm-12">
+                      <div class="commonInfo">
+                        <h2>{{ page.nazwa }}</h2>
+                        <p>{{ page.opis }}</p>
+                        <ul class="list-inline">
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div role="tabpanel" class="tab-pane" id="tour-guide">
+                  <div class="row">
+                    <div class="col-sm-8 col-xs-12">
+                      <div class="commonInfo">
+                        <h2>some title should be here</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p>
+                        <ul class="list-inline">
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="col-sm-4 col-xs-12">
+                      <div class="well">
+                        <h3>benefits</h3>
+                        <ul class="list-unstyled">
+                          <li><i class="fa fa-check-square" aria-hidden="true"></i>Some Benefit</li>
+                          <li><i class="fa fa-check-square" aria-hidden="true"></i>Some Benefit Should Be Here</li>
+                          <li><i class="fa fa-check-square" aria-hidden="true"></i>Some Benefit Be Here</li>
+                          <li><i class="fa fa-check-square" aria-hidden="true"></i>Some Benefit Be</li>
+                        </ul>
+                        <a href="booking-1.html" class="btn buttonCustomPrimary">BOOK NOW</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div role="tabpanel" class="tab-pane" id="location-map">
+                  <div class="row">
+                    <div class="col-sm-8 col-xs-12">
+                      <div class="commonInfo">
+                        <h2>some title should be here</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p>
+                        <ul class="list-inline">
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                          <li><i class="fa fa-square" aria-hidden="true"></i> Some point should be here</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div class="col-sm-4 col-xs-12">
+                      <div class="well">
+                        <h3>benefits</h3>
+                        <ul class="list-unstyled">
+                          <li><i class="fa fa-check-square" aria-hidden="true"></i>Some Benefit</li>
+                          <li><i class="fa fa-check-square" aria-hidden="true"></i>Some Benefit Should Be Here</li>
+                          <li><i class="fa fa-check-square" aria-hidden="true"></i>Some Benefit Be Here</li>
+                          <li><i class="fa fa-check-square" aria-hidden="true"></i>Some Benefit Be</li>
+                        </ul>
+                        <a href="booking-1.html" class="btn buttonCustomPrimary">BOOK NOW</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="relatedProduct imgGalery">
+              <h2>Badania</h2>
+              <div class="row">
+                {% for b in page.badania %}
+                <div class="col-sm-4 col-xs-12">
+                  <div class="gallery-item">
+                    <a class="fancybox-pop" title="{{ b.desc }}" href="{{ "/grodziska/wielka_zulawa/img/" | prepend: site.baseurl | append: b.img }}"><img src="{{ "/grodziska/wielka_zulawa/img/" | prepend: site.baseurl | append: b.img }}" alt="{{ b.desc }}"></a>
+                  </div>
+                </div>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    {% include footer.html %}
+
+  </div>
+
+  {% include scripts.html %}
+</body>
+</html>

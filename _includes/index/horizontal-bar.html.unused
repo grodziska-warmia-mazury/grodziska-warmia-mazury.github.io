@@ -1,0 +1,26 @@
+<!-- PROMOTION PARALLAX -->
+<section class="promotionWrapper">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="promotionTable">
+          <div class="promotionTableInner">
+            <div class="promotionInfo">
+              <span>Winter Promotion</span>
+              <h2>Greek Island Vacetion Tour</h2>
+              <ul class="list-inline rating">
+                <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                <li><i class="fa fa-star" aria-hidden="true"></i></li>
+              </ul>
+              <p>$599 per person - 5 nights</p>
+              <a href="single-package-right-sidebar.html" class="btn buttonCustomPrimary">View Details</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
