@@ -25,4 +25,11 @@ badania:
    desc: "Iława, st. 33, wyspa Wielka Żuława. Wykop 4: przekrój przez fosę, ściana W wykopu. Fot. J. Wysocki."
  - img: "ryc18.jpg"
    desc: "Iława, st. 33, wyspa Wielka Żuława. Wykop 4: przekrój przez fosę, ściana E wykopu z kamieniami z osuwiska stożka gródka. Fot. J. Wysocki."
+znaleziska:
+ - img: "ryc10.jpg"
+   desc: "Iława, st. 33, wyspa Wielka Żuława. Zawias drzwiowy. Fot. J. Wysocki."
+ - img: "ryc11.jpg"
+   desc: "Iława, st. 33, wyspa Wielka Żuława. Ostroga. Fot. J. Wysocki."
+ - img: "ryc12.jpg"
+   desc: "Iława, st. 33, wyspa Wielka Żuława. Bełt do kuszy. Fot. J. Wysocki."
 ---

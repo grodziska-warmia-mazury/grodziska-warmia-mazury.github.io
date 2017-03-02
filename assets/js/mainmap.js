@@ -1,78 +1,77 @@
-Proj4js.defs["EPSG:2180"] = "+proj=tmerc +lat_0=0 +lon_0=19 +k=0.9993 +x_0=500000 +y_0=-5300000 +ellps=GRS80 +units=m +no_defs";
 var prefix = "";
 
 $(document).ready(function() {
+  var grodziskoStyle = new ol.style.Style({
+    image: new ol.style.Icon(/** @type {olx.style.IconOptions} */ ({
+      anchor: [0.5, 35],
+      anchorXUnits: 'fraction',
+      anchorYUnits: 'pixels',
+      src: '/assets/img/map/ruins.png'
+    }))
+  });
 
-    var mapProj = new OpenLayers.Projection("EPSG:4326");
+  var sondazStyle = new ol.style.Style({
+    image: new ol.style.Circle({
+      radius: 5,
+      fill: new ol.style.Fill({color: '#666666'}),
+      stroke: new ol.style.Stroke({color: '#bada55', width: 1})
+    })
+  });
 
-    var layer = new OpenLayers.Layer.Vector("Badania", {
-                    strategies: [new OpenLayers.Strategy.BBOX({resFactor: 1.1})],
-                    protocol: new OpenLayers.Protocol.HTTP({
-                        url: "/assets/points.txt",
-                        format: new OpenLayers.Format.Text()
-                    }),
-                    projection: mapProj
-                });
-
-	var map = new OpenLayers.Map('map', {
-              projection: new OpenLayers.Projection("EPSG:900913"),
-              units: 'm',
-              maxExtent: new OpenLayers.Bounds(-20037508.34, -20037508.34, 20037508.34, 20037508.34),
-              layers: [
-                new OpenLayers.Layer.OSM(),
-                    // "Google Physical",
-                    // {type: google.maps.MapTypeId.TERRAIN}),
-                layer
-            ]
-    });
-
-	var firstLoad = true;
-	map.zoomToMaxExtent();
-
-    // Interaction; not needed for initial display.
-    selectControl = new OpenLayers.Control.SelectFeature(layer);
-    map.addControl(selectControl);
-    selectControl.activate();
-    layer.events.on({
-        'featureselected': onFeatureSelect,
-        'loadend': function(evnt) {
-        	if (firstLoad) {
-        		firstLoad = false;
-        		map.zoomToExtent(layer.getDataExtent());
-        	}
-        }
-    });
-});
-
-
-// Needed only for interaction, not for the display.
-function onPopupClose(evt) {
-    // 'this' is the popup.
-    var feature = this.feature;
-    if (feature.layer) { // The feature is not destroyed
-        selectControl.unselect(feature);
-    } else { // After "moveend" or "refresh" events on POIs layer all
-             //     features have been destroyed by the Strategy.BBOX
-        this.destroy();
+  var vectorLayer = new ol.layer.Vector({
+    source: new ol.source.Vector({
+      url: '/assets/points.geojson',
+      format: new ol.format.GeoJSON()
+    }),
+    style: function(feature, resolution) {
+      if (feature.get('icon') == '/img/grodzisko.png') {
+        return grodziskoStyle;
+      } else {
+        return sondazStyle;
+      }
     }
-}
-function onFeatureSelect(evt) {
-    feature = evt.feature;
-    $("#previewPane .previewTitle").html(feature.attributes.title);
-    $("#previewPane .previewImg img").attr("src", prefix + feature.attributes.img);
-    $("#previewPane .previewTxt").html(feature.attributes.description);
-    $("#previewPane .previewLink a").attr("href", prefix + feature.attributes.link);
-    console.log(feature.attributes.img);
-    if (feature.attributes.img == "/img/empty.png") {
-        if (feature.attributes.link == "/img/sondaz.png") {
-            $("#previewPane .previewLink a").hide();
-        } else {
-            $("#previewPane .previewLink a").show();
-            $("#previewPane .previewLink a").html("Sprawozdanie z sondażu");
-        }
+  });
+
+  var map = new ol.Map({
+    layers: [
+      new ol.layer.Tile({
+        source: new ol.source.OSM()
+      }),
+      vectorLayer
+    ],
+    target: 'map',
+    view: new ol.View({
+      center: ol.proj.fromLonLat([19.6957, 53.8084]),
+      zoom: 9
+    })
+  });
+
+  var popup = new ol.Overlay.Popup();
+  map.addOverlay(popup);
+
+  map.on('singleclick', function(evt) {
+    displayFeatureInfo(evt);
+  });
+
+  function displayFeatureInfo(evt) {
+    var feature = map.forEachFeatureAtPixel(evt.pixel, function(feature) {
+      return feature;
+    });
+
+    popupContent = "";
+    if (feature.get('link') == '/img/sondaz.png') {
+      popupContent = '<div><h2>' + feature.get('title') + '</h2>' +
+      '<p>Badania sondażowe</p>' +
+      '</div>';
     } else {
-        $("#previewPane .previewLink a").show();
-        $("#previewPane .previewLink a").html("Przejdź dalej &raquo;");
+      popupContent = '<div class="map-feature-popup"><h2>' + feature.get('title') + '</h2>' +
+      '<img src="' + feature.get('img') + '" />' +
+      '<p>' + feature.get('description') + '</p>' +
+      '<p style="clear: both;">&nbsp;</p>' +
+      '<a href="' + feature.get('link') + '" class="btn btn-primary">Szczegóły</a>' +
+      '</div>'
     }
 
-}
+    popup.show(evt.coordinate, popupContent);
+  }
+});

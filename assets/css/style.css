@@ -6218,8 +6218,29 @@ header {
   float: left;
 }
 .gallery-item img {
-    max-width: 100%;
-    height: auto;
+  max-width: 100%;
+  height: auto;
+}
+.ol-popup-content {
+  max-height: 250px;
+}
+.map-feature-popup img {
+  max-width: 120px;
+  height: auto;
+  float: left;
+  margin-right: 10px;
+}
+.map-feature-popup p {
+  font-size: 11px;
+  font-weight: 600;
+  line-height: 15px;
+}
+.map-feature-popup a.btn {
+  padding: 5px;
+}
+.map-feature-popup {
+  width: 400px;
+  min-height: 200px;
 }
 
 /*# sourceMappingURL=style.css.map */

@@ -1,0 +1,35 @@
+---
+nazwa: Strużyna
+opis: ""
+kontekst:
+ - img: "fot1.jpg"
+   desc: ""
+badania:
+ - img: "fot1.jpg"
+   desc: ""
+ - img: "fot2.jpg"
+   desc: ""
+ - img: "fot3.jpg"
+   desc: ""
+ - img: "fot4.jpg"
+   desc: ""
+ - img: "fot5.jpg"
+   desc: ""
+ - img: "fot6.jpg"
+   desc: ""
+ - img: "fot7.jpg"
+   desc: ""
+ - img: "fot8.jpg"
+   desc: ""
+badania:
+ - img: "ryc2.jpg"
+   desc: ""
+ - img: "ryc3.jpg"
+   desc: ""
+ - img: "ryc4.jpg"
+   desc: ""
+ - img: "ryc5.jpg"
+   desc: ""
+ - img: "ryc6.jpg"
+   desc: ""
+---
