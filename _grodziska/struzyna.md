@@ -1,6 +1,7 @@
 ---
 nazwa: Strużyna
 opis: ""
+ikona: "ryc1.jpg"
 kontekst:
  - img: "fot1.jpg"
    desc: ""

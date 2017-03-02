@@ -6242,5 +6242,10 @@ header {
   width: 400px;
   min-height: 200px;
 }
-
+.spis-ikona {
+  max-width: 316px;
+}
+.bookingDetails .btn {
+  width: 120px;
+}
 /*# sourceMappingURL=style.css.map */

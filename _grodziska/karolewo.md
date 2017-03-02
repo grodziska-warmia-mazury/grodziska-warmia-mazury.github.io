@@ -1,6 +1,7 @@
 ---
 nazwa: Karolewo
 opis: ""
+ikona: "ryc1.jpg"
 kontekst:
  - img: "ryc2.jpg"
    desc: ""
