@@ -6,7 +6,7 @@ $(document).ready(function() {
       anchor: [0.5, 35],
       anchorXUnits: 'fraction',
       anchorYUnits: 'pixels',
-      src: '/assets/img/map/ruins.png'
+      src: '/assets/img/map/monument.png'
     }))
   });
 

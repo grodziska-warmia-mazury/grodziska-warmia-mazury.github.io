@@ -2,6 +2,7 @@
 nazwa: Karolewo
 opis: ""
 ikona: "ryc1.jpg"
+plan: "3d.jpg"
 kontekst:
  - img: "ryc2.jpg"
    desc: ""

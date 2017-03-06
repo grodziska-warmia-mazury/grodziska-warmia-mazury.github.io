@@ -2,6 +2,7 @@
 nazwa: Strużyna
 opis: ""
 ikona: "ryc1.jpg"
+plan: "3d.jpg"
 kontekst:
  - img: "fot1.jpg"
    desc: ""

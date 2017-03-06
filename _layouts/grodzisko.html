@@ -30,37 +30,26 @@
     <section class="mainContentSection singlePackage">
       <div class="container">
         <div class="row countryTitle">
-          <div class="col-sm-8 col-xs-12">
-            <div id="package-carousel" class="carousel slide" data-ride="carousel">
-              <div class="carousel-inner">
-                {% for b in page.kontekst %}
-                  {% if forloop.first %}
-                    <div class="item active">
-                  {% else %}
-                    <div class="item">
-                  {% endif %}
-                  <img alt="{{ b.desc }}" src="{{ "/img/" | prepend: page.url | prepend: site.baseurl | append: b.img }}">
-                </div>
-                {% endfor %}
-              </div>
-              <a class="left carousel-control" href="#package-carousel" data-slide="prev"><span class="glyphicon glyphicon-menu-left"></span></a>
-              <a class="right carousel-control" href="#package-carousel" data-slide="next"><span class="glyphicon glyphicon-menu-right"></span></a>
-            </div>
-          </div>
-          <div class="col-sm-4 col-xs-12">
-            mapa
-          </div>
-        </div>
+
         <div class="row">
           <div class="col-xs-12">
             <div role="tabpanel" class="countryTabs">
               <!-- Nav tabs -->
               <ul class="nav nav-tabs" role="tablist">
                 <li role="presentation" class="active">
-                  <a href="#tab-opis" aria-controls="tab-opis" role="tab" data-toggle="tab">OPIS</a>
+                  <a href="#tab-opis" aria-controls="tab-opis" role="tab" data-toggle="tab">OPIS I PLAN</a>
                 </li>
                 <li role="presentation">
-                  <a href="#tab-dokumentacja" aria-controls="tab-dokumentacja" role="tab" data-toggle="tab">DOKUMENTACJA</a>
+                  <a href="#tab-kontekst" aria-controls="tab-dokumentacja" role="tab" data-toggle="tab">KONTEKST</a>
+                </li>
+                <li role="presentation">
+                  <a href="#tab-badania" aria-controls="tab-dokumentacja" role="tab" data-toggle="tab">BADANIA I ZNALEZISKA</a>
+                </li>
+                <li role="presentation">
+                  <a href="#tab-chronologia" aria-controls="tab-dokumentacja" role="tab" data-toggle="tab">CHRONOLOGIA</a>
+                </li>
+                <li role="presentation">
+                  <a href="#tab-mapa" aria-controls="tab-dokumentacja" role="tab" data-toggle="tab">MAPA</a>
                 </li>
               </ul>
 
@@ -72,11 +61,88 @@
                       <div class="commonInfo">
                         <h2>{{ page.nazwa }}</h2>
                         <p>{{ page.opis }}</p>
+
+                          <div class="gallery-item">
+                        <p><a class="fancybox-pop" title="Plan stanowiska" href="{{ "/img/" | prepend: page.url | prepend: site.baseurl | append: page.plan }}"><img src="{{ "/img/" | prepend: page.url | prepend: site.baseurl | append: page.plan }}" alt="Plan stanowiska"></a></p>
+                      </div></div>
+                    </div>
+                  </div>
+                </div>
+
+                <div role="tabpanel" class="tab-pane" id="tab-kontekst">
+                  <div class="row">
+                    <div class="col-sm-12">
+                      <div class="commonInfo">
+                        {% if page.kontekst %}
+                        <div class="row">
+                          <div class="col-xs-12">
+                            <div class="relatedProduct imgGalery">
+                              <h2>Kontekst</h2>
+                              <div class="row">
+                                {% for b in page.kontekst %}
+                                <div class="col-sm-4 col-xs-12">
+                                  <div class="gallery-item">
+                                    <a class="fancybox-pop" title="{{ b.desc }}" href="{{ "/img/" | prepend: page.url | prepend: site.baseurl | append: b.img }}"><img src="{{ "/img/" | prepend: page.url | prepend: site.baseurl | append: b.img }}" alt="{{ b.desc }}"></a>
+                                  </div>
+                                </div>
+                                {% endfor %}
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        {% endif %}
                       </div>
                     </div>
                   </div>
                 </div>
-                <div role="tabpanel" class="tab-pane" id="tab-dokumentacja">
+
+                <div role="tabpanel" class="tab-pane" id="tab-badania">
+                  <div class="row">
+                    <div class="col-sm-12">
+                      <div class="commonInfo">
+                        {% if page.badania %}
+                        <div class="row">
+                          <div class="col-xs-12">
+                            <div class="relatedProduct imgGalery">
+                              <h2>Badania</h2>
+                              <div class="row">
+                                {% for b in page.badania %}
+                                <div class="col-sm-4 col-xs-12">
+                                  <div class="gallery-item">
+                                    <a class="fancybox-pop" title="{{ b.desc }}" href="{{ "/img/" | prepend: page.url | prepend: site.baseurl | append: b.img }}"><img src="{{ "/img/" | prepend: page.url | prepend: site.baseurl | append: b.img }}" alt="{{ b.desc }}"></a>
+                                  </div>
+                                </div>
+                                {% endfor %}
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        {% endif %}
+
+                        {% if page.znaleziska %}
+                        <div class="row">
+                          <div class="col-xs-12">
+                            <div class="relatedProduct imgGalery">
+                              <h2>Znaleziska</h2>
+                              <div class="row">
+                                {% for b in page.znaleziska %}
+                                <div class="col-sm-4 col-xs-12">
+                                  <div class="gallery-item">
+                                    <a class="fancybox-pop" title="{{ b.desc }}" href="{{ "/img/" | prepend: page.url | prepend: site.baseurl | append: b.img }}"><img src="{{ "/img/" | prepend: page.url | prepend: site.baseurl | append: b.img }}" alt="{{ b.desc }}"></a>
+                                  </div>
+                                </div>
+                                {% endfor %}
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        {% endif %}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div role="tabpanel" class="tab-pane" id="tab-chronologia">
                   <div class="row">
                     <div class="col-sm-8 col-xs-12">
                       <div class="commonInfo">
@@ -111,44 +177,6 @@
             </div>
           </div>
         </div>
-
-        {% if page.badania %}
-        <div class="row">
-          <div class="col-xs-12">
-            <div class="relatedProduct imgGalery">
-              <h2>Badania</h2>
-              <div class="row">
-                {% for b in page.badania %}
-                <div class="col-sm-4 col-xs-12">
-                  <div class="gallery-item">
-                    <a class="fancybox-pop" title="{{ b.desc }}" href="{{ "/img/" | prepend: page.url | prepend: site.baseurl | append: b.img }}"><img src="{{ "/img/" | prepend: page.url | prepend: site.baseurl | append: b.img }}" alt="{{ b.desc }}"></a>
-                  </div>
-                </div>
-                {% endfor %}
-              </div>
-            </div>
-          </div>
-        </div>
-        {% endif %}
-
-        {% if page.znaleziska %}
-        <div class="row">
-          <div class="col-xs-12">
-            <div class="relatedProduct imgGalery">
-              <h2>Znaleziska</h2>
-              <div class="row">
-                {% for b in page.znaleziska %}
-                <div class="col-sm-4 col-xs-12">
-                  <div class="gallery-item">
-                    <a class="fancybox-pop" title="{{ b.desc }}" href="{{ "/img/" | prepend: page.url | prepend: site.baseurl | append: b.img }}"><img src="{{ "/img/" | prepend: page.url | prepend: site.baseurl | append: b.img }}" alt="{{ b.desc }}"></a>
-                  </div>
-                </div>
-                {% endfor %}
-              </div>
-            </div>
-          </div>
-        </div>
-        {% endif %}
 
       </div>
     </section>
