@@ -43,35 +43,40 @@ function drawDetailMap(initFeatureTitle) {
         source: new ol.source.TileWMS({
           url: 'http://mapy.geoportal.gov.pl/wss/service/img/guest/ORTO/MapServer/WMSServer',
           params: {'layers': 'Raster'}
-        })
+        }),
+        visible: false
       }),
       new ol.layer.Tile({
         title: "Mapa WIG 100k",
         source: new ol.source.TileWMS({
           url: 'http://wms.hgis.cartomatic.pl/topo/3857/wig100k',
           params: {'VERSION': '1.3.0', 'FORMAT': 'image/jpeg', 'layers': 'wig100k'}
-        })
+        }),
+        visible: false
       }),
       new ol.layer.Tile({
         title: "Messtischblatter 25k",
         source: new ol.source.TileWMS({
           url: 'http://wms.hgis.cartomatic.pl/topo/3857/m25k',
           params: {'VERSION': '1.3.0', 'FORMAT': 'image/jpeg', 'layers': 'm25k'}
-        })
+        }),
+        visible: false
       }),
       new ol.layer.Tile({
         title: "LIDAR",
         source: new ol.source.TileWMS({
           url: 'http://lidar.grodziska-warmia-mazury.pl/cgi-bin/qgis_mapserv.fcgi',
           params: {'layers': 'lidar'}
-        })
+        }),
+        visible: false
       }),
       new ol.layer.Tile({
         title: "Siatka AZP",
         source: new ol.source.TileWMS({
           url: 'http://mapy.zabytek.gov.pl/AZP/service.svc/get',
           params: {'layers': 'Sekcja_arkusza_AZP,Numer_sekcji_AZP'}
-        })
+        }),
+        visible: false
       }),
       new ol.layer.Tile({
         title: "OpenStreetMaps",

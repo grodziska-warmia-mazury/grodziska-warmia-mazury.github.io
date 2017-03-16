@@ -1,11 +1,10 @@
 ---
-nazwa: Karolewo st. 1
+nazwa: Mozgowo
 opis: ""
 ikona: "ryc1.jpg"
-sprawozdanie: "sprawozdanie.pdf"
-plan_pdf: "plan.pdf"
+plan: "plan.jpg"
 plan_3d: "3d.jpg"
-kontekst:
+znaleziska:
  - img: "ryc2.jpg"
    desc: ""
  - img: "ryc3.jpg"
@@ -13,7 +12,5 @@ kontekst:
  - img: "ryc4.jpg"
    desc: ""
  - img: "ryc5.jpg"
-   desc: ""
- - img: "ryc6.jpg"
    desc: ""
 ---

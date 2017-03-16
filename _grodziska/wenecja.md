@@ -1,11 +1,11 @@
 ---
-nazwa: Karolewo st. 1
+nazwa: Wenecja
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"
 plan_pdf: "plan.pdf"
 plan_3d: "3d.jpg"
-kontekst:
+badania:
  - img: "ryc2.jpg"
    desc: ""
  - img: "ryc3.jpg"
@@ -14,6 +14,7 @@ kontekst:
    desc: ""
  - img: "ryc5.jpg"
    desc: ""
- - img: "ryc6.jpg"
+znaleziska:
+ - img: "ryc6.png"
    desc: ""
 ---

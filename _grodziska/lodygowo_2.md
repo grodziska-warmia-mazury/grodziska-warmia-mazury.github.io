@@ -1,11 +1,11 @@
 ---
-nazwa: Karolewo st. 1
+nazwa: Łodygowo, st. 2
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"
 plan_pdf: "plan.pdf"
 plan_3d: "3d.jpg"
-kontekst:
+znaleziska:
  - img: "ryc2.jpg"
    desc: ""
  - img: "ryc3.jpg"
@@ -15,5 +15,7 @@ kontekst:
  - img: "ryc5.jpg"
    desc: ""
  - img: "ryc6.jpg"
+   desc: ""
+ - img: "ryc7.jpg"
    desc: ""
 ---

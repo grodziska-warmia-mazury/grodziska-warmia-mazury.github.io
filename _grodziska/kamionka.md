@@ -1,8 +1,10 @@
 ---
 nazwa: Kamionka
 opis: "Grodzisko, występujące w literaturze również pod nazwami miejscowości Silma i Łanioch, a nawet sporadycznie Stradomno , położone jest na półwyspie jeziora Silm, oblanym od wschodu, południa i zachodu jego wodami. W tradycji lokalnej obiekt ten znany jest jako Schwedenschanze, Kesselberg lub Poganek czy Poganka . Obiekt zbudowano na naturalnym piaszczystym wzniesieniu. Od strony jeziora wysokość nasypu wynosi ok. 25 m, a od strony lądu ok. 12 m. Owalny majdan, o wymiarach 36 x 92 m, tworzy nieckę (część centralna jest najbardziej zagłębiona). Wał otaczający majdan sięga 3–6 m ponad poziom wysoczyzny. Fosa znajduje się po północnej stronie grodziska."
-ikona: "ryc1.jpg"
+ikona: "thumb.jpg"
+sprawozdanie: "sprawozdanie.pdf"
 plan: "ryc3.jpg"
+plan_3d: "ryc4.jpg"
 kontekst:
  - img: "ryc5.jpg"
    desc: "Kamionka, st. 9. Widok na grodzisko od strony wschodniej. Fot. Ł. Łasiński 2010."

@@ -1,5 +1,5 @@
 ---
-nazwa: Karolewo st. 1
+nazwa: Rotajny
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"
@@ -11,9 +11,5 @@ kontekst:
  - img: "ryc3.jpg"
    desc: ""
  - img: "ryc4.jpg"
-   desc: ""
- - img: "ryc5.jpg"
-   desc: ""
- - img: "ryc6.jpg"
    desc: ""
 ---
