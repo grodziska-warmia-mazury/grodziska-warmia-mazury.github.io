@@ -39,17 +39,23 @@
                 <li role="presentation" class="active">
                   <a href="#tab-opis" aria-controls="tab-opis" role="tab" data-toggle="tab">OPIS I PLAN</a>
                 </li>
+                {% if page.kontekst %}
                 <li role="presentation">
-                  <a href="#tab-kontekst" aria-controls="tab-dokumentacja" role="tab" data-toggle="tab">KONTEKST</a>
+                  <a href="#tab-kontekst" aria-controls="tab-kontekst" role="tab" data-toggle="tab">KONTEKST</a>
                 </li>
+                {% endif %}
+                {% if page.badania or page.znaleziska %}
                 <li role="presentation">
-                  <a href="#tab-badania" aria-controls="tab-dokumentacja" role="tab" data-toggle="tab">BADANIA I ZNALEZISKA</a>
+                  <a href="#tab-badania" aria-controls="tab-badania" role="tab" data-toggle="tab">BADANIA I ZNALEZISKA</a>
                 </li>
+                {% endif %}
+                {% if page.chronologia %}
                 <li role="presentation">
-                  <a href="#tab-chronologia" aria-controls="tab-dokumentacja" role="tab" data-toggle="tab">CHRONOLOGIA</a>
+                  <a href="#tab-chronologia" aria-controls="tab-chronologia" role="tab" data-toggle="tab">CHRONOLOGIA</a>
                 </li>
+                {% endif %}
                 <li role="presentation">
-                  <a href="#tab-mapa" aria-controls="tab-dokumentacja" role="tab" data-toggle="tab">MAPA</a>
+                  <a href="#tab-mapa" aria-controls="tab-mapa" role="tab" data-toggle="tab">MAPA</a>
                 </li>
               </ul>
 
@@ -61,19 +67,31 @@
                       <div class="commonInfo">
                         <h2>{{ page.nazwa }}</h2>
                         <p>{{ page.opis }}</p>
-
+                        {% if page.sprawozdanie %}
+                        <p><i class="fa fa-download" aria-hidden="true"></i> <a href="{{ "/pdf/" | prepend: page.url | prepend: site.baseurl | append: page.sprawozdanie }}">Pełne sprawozdanie</a></p>
+                        {% endif %}
+                        <div class="col-sm-4 col-xs-12">
                           <div class="gallery-item">
-                        <p><a class="fancybox-pop" title="Plan stanowiska" href="{{ "/img/" | prepend: page.url | prepend: site.baseurl | append: page.plan }}"><img src="{{ "/img/" | prepend: page.url | prepend: site.baseurl | append: page.plan }}" alt="Plan stanowiska"></a></p>
-                      </div></div>
+                            <p><a class="fancybox-pop" title="Plan stanowiska" href="{{ "/img/" | prepend: page.url | prepend: site.baseurl | append: page.plan }}"><img src="{{ "/img/" | prepend: page.url | prepend: site.baseurl | append: page.plan }}" alt="Plan stanowiska"></a></p>
+                          </div>
+                        </div>
+                        {% if page.plan_3d %}
+                        <div class="col-sm-4 col-xs-12">
+                          <div class="gallery-item">
+                            <p><a class="fancybox-pop" title="Plan 3D" href="{{ "/img/" | prepend: page.url | prepend: site.baseurl | append: page.plan_3d }}"><img src="{{ "/img/" | prepend: page.url | prepend: site.baseurl | append: page.plan_3d }}" alt="Plan 3D"></a></p>
+                          </div>
+                        </div>
+                        {% endif %}
+                      </div>
                     </div>
                   </div>
                 </div>
 
+                {% if page.kontekst %}
                 <div role="tabpanel" class="tab-pane" id="tab-kontekst">
                   <div class="row">
                     <div class="col-sm-12">
                       <div class="commonInfo">
-                        {% if page.kontekst %}
                         <div class="row">
                           <div class="col-xs-12">
                             <div class="relatedProduct imgGalery">
@@ -90,12 +108,13 @@
                             </div>
                           </div>
                         </div>
-                        {% endif %}
                       </div>
                     </div>
                   </div>
                 </div>
+                {% endif %}
 
+                {% if page.badania or page.znaleziska %}
                 <div role="tabpanel" class="tab-pane" id="tab-badania">
                   <div class="row">
                     <div class="col-sm-12">
@@ -141,7 +160,9 @@
                     </div>
                   </div>
                 </div>
+                {% endif %}
 
+                {% if page.chronologia %}
                 <div role="tabpanel" class="tab-pane" id="tab-chronologia">
                   <div class="row">
                     <div class="col-sm-8 col-xs-12">
@@ -173,6 +194,16 @@
                     </div>
                   </div>
                 </div>
+                {% endif %}
+
+                <div role="tabpanel" class="tab-pane" id="tab-mapa">
+                  <div class="row">
+                    <div class="col-sm-8 col-xs-12">
+                      <div id="detail-map" class="detail-map"></div>
+                    </div>
+                  </div>
+                </div>
+
               </div>
             </div>
           </div>
@@ -185,5 +216,24 @@
   </div>
 
   {% include scripts.html %}
+  <!-- The line below is only needed for old environments like Internet Explorer and Android 4.x -->
+  <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=requestAnimationFrame,Element.prototype.classList,URL"></script>
+  <script src="https://openlayers.org/en/v4.0.1/build/ol.js"></script>
+  <script src="{{ "/assets/js/ol3-layerswitcher.js" | prepend: site.baseurl }}"></script>
+  <script src="{{ "/assets/js/detailmap.js" | prepend: site.baseurl }}"></script>
+
+  <script>
+  var firstRun = true;
+
+  $('a[data-toggle="tab"]').on('shown.bs.tab', function(evt) {
+    if (firstRun == false) return;
+
+    var anchor = $( evt.target ).attr( 'href' );
+    if (anchor != "#tab-mapa") return;
+
+    firstRun = false;
+    drawDetailMap("{{ page.nazwa }}");
+  });
+  </script>
 </body>
 </html>
