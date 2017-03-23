@@ -6248,4 +6248,11 @@ header {
 .bookingDetails .btn {
   width: 120px;
 }
+.map-buttons .btn {
+  padding: 5px;
+  text-transform: none;
+}
+.map-buttons {
+  margin-bottom: 10px;
+}
 /*# sourceMappingURL=style.css.map */

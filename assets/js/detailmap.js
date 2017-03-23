@@ -39,6 +39,10 @@ function drawDetailMap(initFeatureTitle) {
     controls: ol.control.defaults().extend([new ol.control.LayerSwitcher()]),
     layers: [
       new ol.layer.Tile({
+        title: "OpenStreetMaps",
+        source: new ol.source.OSM()
+      }),
+      new ol.layer.Tile({
         title: "Ortofotomapa",
         source: new ol.source.TileWMS({
           url: 'http://mapy.geoportal.gov.pl/wss/service/img/guest/ORTO/MapServer/WMSServer',
@@ -78,10 +82,6 @@ function drawDetailMap(initFeatureTitle) {
         }),
         visible: false
       }),
-      new ol.layer.Tile({
-        title: "OpenStreetMaps",
-        source: new ol.source.OSM()
-      }),
       vectorLayer
     ],
     target: 'detail-map',
@@ -98,6 +98,27 @@ function drawDetailMap(initFeatureTitle) {
           map.getView().setCenter(ol.extent.getCenter(feature.getGeometry().getExtent()));
           return true;
         }
+      });
+    }
+  });
+
+  function bindInputs(layerid, layer) {
+    var btn = $(layerid);
+    btn.on('click', function() {
+      if (btn.hasClass("active")) {
+        layer.setVisible(false);
+        btn.removeClass("active")
+      } else {
+        layer.setVisible(true);
+        btn.addClass("active")
+      }
+    });
+  }
+  map.getLayers().forEach(function(layer, i) {
+    bindInputs('#layer' + i, layer);
+    if (layer instanceof ol.layer.Group) {
+      layer.getLayers().forEach(function(sublayer, j) {
+        bindInputs('#layer' + i + j, sublayer);
       });
     }
   });
