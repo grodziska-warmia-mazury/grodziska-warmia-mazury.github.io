@@ -6255,4 +6255,10 @@ header {
 .map-buttons {
   margin-bottom: 10px;
 }
+.legend-col {
+  padding: 40px;
+}
+.main-map {
+  height: 600px;
+}
 /*# sourceMappingURL=style.css.map */
