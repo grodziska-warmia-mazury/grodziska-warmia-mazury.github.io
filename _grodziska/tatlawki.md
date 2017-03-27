@@ -1,5 +1,5 @@
 ---
-nazwa: Tątławki
+title: Tątławki
 opis: ""
 ikona: "ryc1.jpg"
 plan_pdf: "plan.pdf"

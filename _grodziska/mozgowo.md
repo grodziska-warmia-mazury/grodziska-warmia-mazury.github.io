@@ -1,5 +1,5 @@
 ---
-nazwa: Mozgowo
+title: Mozgowo
 opis: ""
 ikona: "ryc1.jpg"
 plan: "plan.jpg"

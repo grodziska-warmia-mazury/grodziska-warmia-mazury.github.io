@@ -1,5 +1,5 @@
 ---
-nazwa: Stary Folwark, st. 2
+title: Stary Folwark, st. 2
 opis: ""
 ikona: "ryc1.jpg"
 ---

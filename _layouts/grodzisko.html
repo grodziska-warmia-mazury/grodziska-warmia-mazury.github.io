@@ -16,7 +16,7 @@
             <div class="titleTable">
               <div class="titleTableInner">
                 <div class="pageTitleInfo">
-                  <h1>{{ page.nazwa }}</h1>
+                  <h1>{{ page.title }}</h1>
                   <div class="under-border"></div>
                 </div>
               </div>
@@ -65,7 +65,7 @@
                   <div class="row">
                     <div class="col-sm-12">
                       <div class="commonInfo">
-                        <h2>{{ page.nazwa }}</h2>
+                        <h2>{{ page.title }}</h2>
                         <p>{{ page.opis }}</p>
                         {% if page.sprawozdanie %}
                         <p><i class="fa fa-download" aria-hidden="true"></i> <a href="{{ "/pdf/" | prepend: page.url | prepend: site.baseurl | append: page.sprawozdanie }}">Pełne sprawozdanie</a></p>
@@ -245,7 +245,7 @@
     if (anchor != "#tab-mapa") return;
 
     firstRun = false;
-    drawDetailMap("{{ page.nazwa }}");
+    drawDetailMap("{{ page.title }}");
   });
   </script>
 </body>

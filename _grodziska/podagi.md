@@ -1,5 +1,5 @@
 ---
-nazwa: Podągi
+title: Podągi
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"

@@ -1,5 +1,5 @@
 ---
-nazwa: Wenecja
+title: Wenecja
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"

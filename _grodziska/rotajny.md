@@ -1,5 +1,5 @@
 ---
-nazwa: Rotajny
+title: Rotajny
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"

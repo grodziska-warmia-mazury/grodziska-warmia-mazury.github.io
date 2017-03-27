@@ -1,5 +1,5 @@
 ---
-nazwa: Janiki Wielkie
+title: Janiki Wielkie
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"

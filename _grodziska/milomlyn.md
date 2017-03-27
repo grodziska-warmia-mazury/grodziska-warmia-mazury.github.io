@@ -1,5 +1,5 @@
 ---
-nazwa: Miłomłyn st. 1
+title: Miłomłyn st. 1
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"

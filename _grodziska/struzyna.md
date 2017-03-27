@@ -1,5 +1,5 @@
 ---
-nazwa: Strużyna
+title: Strużyna
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"

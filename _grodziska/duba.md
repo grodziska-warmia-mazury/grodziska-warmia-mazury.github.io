@@ -1,5 +1,5 @@
 ---
-nazwa: Duba
+title: Duba
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"

@@ -1,5 +1,5 @@
 ---
-nazwa: Łodygowo, st. 1
+title: Łodygowo, st. 1
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"

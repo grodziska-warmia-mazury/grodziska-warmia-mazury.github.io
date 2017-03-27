@@ -1,5 +1,5 @@
 ---
-nazwa: Zajączki
+title: Zajączki
 opis: ""
 ikona: "ryc1.jpg"
 ---

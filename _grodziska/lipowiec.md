@@ -1,5 +1,5 @@
 ---
-nazwa: Lipowiec
+title: Lipowiec
 opis: ""
 ikona: "ryc1.jpg"
 ---

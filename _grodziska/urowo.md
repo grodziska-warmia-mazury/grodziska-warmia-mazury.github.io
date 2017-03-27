@@ -1,5 +1,5 @@
 ---
-nazwa: Urowo
+title: Urowo
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"
