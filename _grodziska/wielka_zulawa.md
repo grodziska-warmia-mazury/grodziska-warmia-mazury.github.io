@@ -1,5 +1,5 @@
 ---
-title: Wielka Żuława
+title: Iława, st. 33 – wyspa Wielka Żuława, gm. Iława
 opis: "Grodzisko, w okresie przedwojennym znane pod nazwą Scholtenberg, położone jest w południowo-wschodniej części wyspy Wielka Żuława na jeziorze Jeziorak, na wysokim brzegu stromo opadającym do jeziora. Grodzisko wymieniane jest w literaturze polskiej i niemieckiej z końca XIX i początku XX wieku , jest ono także zaznaczone na mapie grodzisk opracowanej przez W. Antoniewicza i Z. Wartołowską. Wpisane zostało do rejestru zabytków w roku 1986."
 ikona: "thumb.jpg"
 sprawozdanie: "sprawozdanie.pdf"

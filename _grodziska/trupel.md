@@ -1,5 +1,5 @@
 ---
-title: Trupel
+title: Trupel, st. 1, gm. Kisielice
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"

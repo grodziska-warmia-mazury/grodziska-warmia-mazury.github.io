@@ -1,5 +1,5 @@
 ---
-title: Wieprz
+title: Wieprz, st. 1 – wyspa Bukowiec, gm. Zalewo
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"

@@ -1,5 +1,5 @@
 ---
-title: Susz st. 1
+title: Susz, st. 1, gm. Susz
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"

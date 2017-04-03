@@ -10,11 +10,31 @@ function drawDetailMap(initFeatureTitle) {
     }))
   });
 
+  var grodziskoStyle2 = new ol.style.Style({
+          image: new ol.style.Circle({
+            radius: 7,
+            snapToPixel: false,
+            fill: new ol.style.Fill({color: '#FF6B6B'}),
+            stroke: new ol.style.Stroke({
+              color: 'black', width: 2
+            })
+          })
+  });
+
   var sondazStyle = new ol.style.Style({
     image: new ol.style.Circle({
       radius: 5,
       fill: new ol.style.Fill({color: '#666666'}),
       stroke: new ol.style.Stroke({color: '#bada55', width: 1})
+    })
+  });
+
+  var sondazStyle2 = new ol.style.Style({
+    image: new ol.style.RegularShape({
+      radius: 5,
+      points: 4,
+      fill: new ol.style.Fill({color: '#4ECDC4'}),
+      stroke: new ol.style.Stroke({color: 'black', width: 1})
     })
   });
 
@@ -28,9 +48,9 @@ function drawDetailMap(initFeatureTitle) {
     source: vectorSource,
     style: function(feature, resolution) {
       if (feature.get('icon') == '/img/grodzisko.png') {
-        return grodziskoStyle;
+        return grodziskoStyle2;
       } else {
-        return sondazStyle;
+        return sondazStyle2;
       }
     }
   });

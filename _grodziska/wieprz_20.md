@@ -1,5 +1,5 @@
 ---
-title: Wieprz, st. 20
+title: Wieprz, st. 20, gm. Zalewo
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"

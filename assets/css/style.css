@@ -6261,4 +6261,8 @@ header {
 .main-map {
   height: 600px;
 }
+.horiz-logos img {
+  display:block;
+  margin:20px auto 0px auto;
+}
 /*# sourceMappingURL=style.css.map */

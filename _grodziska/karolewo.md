@@ -1,5 +1,5 @@
 ---
-title: Karolewo st. 1
+title: Karolewo, st. 1, gm. Susz
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"

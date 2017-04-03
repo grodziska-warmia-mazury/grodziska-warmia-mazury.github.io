@@ -1,5 +1,5 @@
 ---
-title: Durąg
+title: Durąg, st. 1, gm. Ostróda
 opis: ""
 ikona: "ryc1.jpg"
 ---

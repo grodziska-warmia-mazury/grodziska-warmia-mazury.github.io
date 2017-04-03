@@ -1,5 +1,5 @@
 ---
-title: Miłomłyn st. 1
+title: Miłomłyn, st. 3 – Zamek
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"

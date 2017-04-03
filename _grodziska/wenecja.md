@@ -1,5 +1,5 @@
 ---
-title: Wenecja
+title: Wenecja, st. 2, gm. Morąg
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"

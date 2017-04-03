@@ -1,5 +1,5 @@
 ---
-title: Mozgowo
+title: Mozgowo, st. 1, gm. Zalewo
 opis: ""
 ikona: "ryc1.jpg"
 plan: "plan.jpg"

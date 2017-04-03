@@ -1,5 +1,5 @@
 ---
-title: Tątławki
+title: Tątławki, st. 2, gm. Morąg
 opis: ""
 ikona: "ryc1.jpg"
 plan_pdf: "plan.pdf"

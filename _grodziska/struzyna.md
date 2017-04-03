@@ -1,5 +1,5 @@
 ---
-title: Strużyna
+title: Strużyna, st. 21, gm. Morąg
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"

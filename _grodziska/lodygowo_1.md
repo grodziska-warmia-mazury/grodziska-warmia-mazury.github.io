@@ -1,5 +1,5 @@
 ---
-title: Łodygowo, st. 1
+title: Łodygowo, st. 1, gm. Kisielice
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"

@@ -1,5 +1,5 @@
 ---
-title: Duba
+title: Duba, st. 1, gm. Zalewo
 opis: ""
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"
