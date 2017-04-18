@@ -1041,11 +1041,11 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bałoszyce pałac",
+        "title": "Bałoszyce - Pałac, gm. Susz",
         "description": "&nbsp;",
-        "img": "/img/empty.png",
-        "link": "/img/sondaz.png",
-        "icon": "/img/sondaz.png"
+        "img": "/grodziska/baloszyce/img/thumb.jpg",
+        "link": "/grodziska/baloszyce/index.html",
+        "icon": "/img/grodzisko.png"
       },
       "geometry": {
         "type": "Point",
