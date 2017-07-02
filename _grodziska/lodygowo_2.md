@@ -1,6 +1,6 @@
 ---
 title: Łodygowo, st. 2, gm. Kisielice
-opis: ""
+opis: "Stanowisko 2 w Łodygowie usytuowane jest na największej z trzech wysp (zwanej Wyspą Dużą) jeziora Łodygowskiego (zwanego także Stawem Łodygowo) w pobliżu jego zachodniego brzegu. Wyspa ta, o kształcie nieregularnego trójkąta, ma około 100 m długości i podobną szerokość (wliczając płaską, niewiele wystającą ponad linię wody część północno-wschodnią). Wyspę oddziela od brzegu jedynie wąski, kilkudziesięciometrowy przesmyk od strony północno-zachodniej"
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"
 plan_pdf: "plan.pdf"

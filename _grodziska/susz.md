@@ -1,6 +1,6 @@
 ---
 title: Susz, st. 1, gm. Susz
-opis: ""
+opis: 'Grodzisko w Suszu położone jest na zachodnim brzegu Jeziora Suskiego, na terenie parku miejskiego w Suszu (nazwy niemieckie tej miejscowości to Rosenbergk – 1315 r., Rozemburg - ok. 1450 r., Rosemberg – 1466 i Rosenberg in Westpreußen - 1890). Nazwa Susz (dawne Szusz, poświadczone ok. 1450 r.) jest nazwą pierwotną, wywodzącą się jeszcze z czasów osadnictwa pruskiego. Grodzisko określane jest nazwą zwyczajową "Gród słowiański". W źródłach było opisywane jako "Burgwall", "Hof" i "Schloss" i wiązane z dworem należącym do kapituły pomezańskiej, który miał powstać w tym miejscu na początku XIV wieku.'
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"
 plan_pdf: "plan.pdf"

@@ -1,6 +1,6 @@
 ---
 title: Strużyna, st. 21, gm. Morąg
-opis: ""
+opis: "Grodzisko w Strużynie, st. 21 usytuowane zostało na wysokim cyplu, posiadającym naturalne walory obronne (od wschodu dostępu broniło częściowo osuszone Jezioro Długie, a od północy dolina Srebrnej Strugi). Od północno-wschodniej strony dostęp do cypla odcina niewielki wał zewnętrzny o długości około 15. Owalny majdan, o wymiarach około 15 x 20 m, otacza wał o wysokości od 1 m do 2,5 m."
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"
 plan_pdf: "plan.pdf"

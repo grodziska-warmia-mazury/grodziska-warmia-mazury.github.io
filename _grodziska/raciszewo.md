@@ -1,6 +1,6 @@
 ---
 title: Raciszewo, st. 9, gm. Miłakowo
-opis: ""
+opis: "Grodzisko znajduje się na wysokim wzniesieniu, położonym około 750 m na wschód od rzeki Pasłęki. Rzeźba terenu, na którym wzniesiono gród, charakteryzuje się naturalnymi walorami obronnymi, które zapewniają głębokie jary otaczające cypel od strony zachodniej, północnej i wschodniej. Na dnie jarów występują dziś wysychające strumienie."
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"
 plan_pdf: "plan.pdf"
