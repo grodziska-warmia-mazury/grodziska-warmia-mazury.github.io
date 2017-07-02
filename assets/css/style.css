@@ -276,7 +276,7 @@ a:focus {
 }
 
 .buttonTransparent, .paginationCenter .pagination li:first-child a, .paginationCenter .pagination li:last-child a, .isotopeFilters ul.filter > li a {
-  height: 35px;
+  min-height: 35px;
   line-height: 35px;
   border-radius: 4px;
   border-color: #dedede;
@@ -4162,7 +4162,7 @@ header {
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;
-  padding: 25px 55px 15px 55px;
+  padding: 25px 32px 15px 32px;
   min-height: 210px;
 }
 .bookingDetails h2 {
@@ -6246,7 +6246,7 @@ header {
   max-width: 316px;
 }
 .bookingDetails .btn {
-  width: 120px;
+  width: 150px;
 }
 .map-buttons .btn {
   padding: 5px;
