@@ -68,7 +68,7 @@
                         <h2>{{ page.title }}</h2>
                         <p>{{ page.opis }}</p>
                         {% if page.sprawozdanie %}
-                        <p><i class="fa fa-download" aria-hidden="true"></i> <a href="{{ "/pdf/" | prepend: page.url | prepend: site.baseurl | append: page.sprawozdanie }}">Pełne sprawozdanie</a></p>
+                        <p><i class="fa fa-download" aria-hidden="true"></i> <a href="{{ "/pdf/" | prepend: page.url | prepend: site.baseurl | append: page.sprawozdanie }}">Pełne opracowanie</a></p>
                         {% endif %}
                         {% if page.plan_pdf %}
                         <p><i class="fa fa-download" aria-hidden="true"></i> <a href="{{ "/pdf/" | prepend: page.url | prepend: site.baseurl | append: page.plan_pdf }}">Plan stanowiska</a></p>
