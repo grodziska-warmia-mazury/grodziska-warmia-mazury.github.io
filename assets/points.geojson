@@ -6,9 +6,9 @@
       "properties": {
         "title": "Boreczno, st. 4, gm. Zalewo",
         "description": "&nbsp;",
-        "img": "/grodziska/boreczno/img/ryc1.jpg",
-        "link": "/grodziska/boreczno/index.html",
-        "icon": "/img/grodzisko.png"
+        "img": "/img/empty.png",
+        "link": "/img/sondaz.png",
+        "icon": "/img/sondaz.png"
       },
       "geometry": {
         "type": "Point",
@@ -380,9 +380,9 @@
       "properties": {
         "title": "Miłomłyn, st. 3 – Zamek",
         "description": "&nbsp;",
-        "img": "/grodziska/milomlyn/img/ryc1.jpg",
-        "link": "/grodziska/milomlyn/index.html",
-        "icon": "/img/grodzisko.png"
+        "img": "/img/empty.png",
+        "link": "/img/sondaz.png",
+        "icon": "/img/sondaz.png"
       },
       "geometry": {
         "type": "Point",
@@ -397,9 +397,9 @@
       "properties": {
         "title": "Wenecja, st. 2, gm. Morąg",
         "description": "&nbsp;",
-        "img": "/grodziska/wenecja/img/ryc1.jpg",
-        "link": "/grodziska/wenecja/index.html",
-        "icon": "/img/grodzisko.png"
+        "img": "/img/empty.png",
+        "link": "/img/sondaz.png",
+        "icon": "/img/sondaz.png"
       },
       "geometry": {
         "type": "Point",
@@ -1043,9 +1043,9 @@
       "properties": {
         "title": "Bałoszyce - Pałac, gm. Susz",
         "description": "&nbsp;",
-        "img": "/grodziska/baloszyce/img/thumb.jpg",
-        "link": "/grodziska/baloszyce/index.html",
-        "icon": "/img/grodzisko.png"
+        "img": "/img/empty.png",
+        "link": "/img/sondaz.png",
+        "icon": "/img/sondaz.png"
       },
       "geometry": {
         "type": "Point",
