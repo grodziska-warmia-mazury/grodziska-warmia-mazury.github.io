@@ -4,6 +4,7 @@ opis: "Grodzisko w Mozgowie, st. 1 położone jest na wysoczyźnie, na krawędzi
 ikona: "ryc1.jpg"
 plan: "plan.jpg"
 plan_3d: "3d.jpg"
+sprawozdanie: "sprawozdanie.pdf"
 znaleziska:
  - img: "ryc2.jpg"
    desc: ""
