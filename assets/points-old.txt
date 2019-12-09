@@ -1,0 +1,71 @@
+point	title	description	img	link	icon
+53.54965,19.88575	Zajączki	Grodzisko	/grodziska/zajaczki/img/ryc1.jpg	/grodziska/zajaczki/index.html	/img/grodzisko.png
+53.575923194,19.426657685	Gulb	Grodzisko, znane już co najmniej od końca XIX w. i oznaczane na niemieckich mapach jako Ringwall, wpisane jest do rejestru zabytków jako "grodzisko półwyżynne". Wskutek swojej specyficznej formy interpretowane było jako wysoczyznowe osiedle obronne z wczesnej epoki żelaza. Podczas badań powierzchniowych znajdowano tu jednak fragmenty ceramiki obtaczanej z ornamentem żłobków dookolnych i linii falistej, co wskazywało na jego wczesnośredniowieczną chronologię.	/grodziska/gulb/img/ryc1.jpg	/grodziska/gulb/index.html	/img/grodzisko.png
+53.590877329,19.404210719	Laseczno Małe	Grodzisko, w literaturze przedwojennej określane miejscową nazwą Kaninkenberg lub Kaninchenberg. Wpisane zostało do rejestru zabytków w roku 1968. Kopiec w Lasecznie Małym znajduje się na wysoczyźnie przy wschodniej krawędzi doliny jeziora Gulbińskiego. Obiekt znajduje się w terenie otwartym i jest bardzo silnie eksponowany.	/grodziska/laseczno_male/img/ryc1.jpg	/grodziska/laseczno_male/index.html	/img/grodzisko.png
+53.608473685,19.510833168	Kamionka	Grodzisko, występujące w literaturze również pod nazwami miejscowości Silma i Łanioch, a nawet sporadycznie Stradomno, położone jest na półwyspie jeziora Silm, oblanym od wschodu, południa i zachodu jego wodami. W tradycji lokalnej obiekt ten znany jest jako Schwedenschanze, Kesselberg lub Poganek czy Poganka.	/grodziska/kamionka/img/ryc1.jpg	/grodziska/kamionka/index.html	/img/grodzisko.png
+53.606625477,19.551373045	Wielka Żuława	Grodzisko, w okresie przedwojennym znane pod nazwą Scholtenberg, położone jest w południowo-wschodniej części wyspy Wielka Żuława na jeziorze Jeziorak, na wysokim brzegu stromo opadającym do jeziora.	/grodziska/wielka_zulawa/img/ryc1.jpg	/grodziska/wielka_zulawa/index.html	/img/grodzisko.png
+53.546025246,19.637754699	Smolniki 1	Jakkolwiek  forma terenowa całego badanego terenu (dość wyraźne zbocza nadrzeczne na połowie jego obwodu) sugerowały, iż  (przy braku,  w innych jego częściach, śladów form przekształconego przez człowieka terenu) miejsce to  mogłoby być brane pod uwagę  jako ewentualne, potencjalne grodzisko , to, mając na względzie fakt, iż nie znaleziono ani jednego zabytku a także żadnych wyróżników archeologicznych jak również biorąc pod uwagę naturalny charakter wszystkich znalezionych układów stratyfikacyjnych , należy raczej zdyskwalifikować  badany teren jako miejsce lokalizacji  tego typu obiektu.	/img/empty.png	/sondazowe/smolniki/sprawozdanie.pdf	/img/sondaz.png
+53.542055868,19.644590288	Smolniki 2	Jakkolwiek  forma terenowa całego badanego terenu (dość wyraźne zbocza nadrzeczne na połowie jego obwodu) sugerowały, iż  (przy braku,  w innych jego częściach, śladów form przekształconego przez człowieka terenu) miejsce to  mogłoby być brane pod uwagę  jako ewentualne, potencjalne grodzisko , to, mając na względzie fakt, iż nie znaleziono ani jednego zabytku a także żadnych wyróżników archeologicznych jak również biorąc pod uwagę naturalny charakter wszystkich znalezionych układów stratyfikacyjnych , należy raczej zdyskwalifikować  badany teren jako miejsce lokalizacji  tego typu obiektu.	/img/empty.png	/sondazowe/smolniki/sprawozdanie.pdf	/img/sondaz.png
+53.634125534,19.489129459	Szymbark	Jakkolwiek  forma terenowa całego badanego pagórka jak i jego wewnętrzna morfologia sugerowałyby, iż forma ta może być pochodzenia (przynajmniej częściowo) sztucznego.  Stratyfikacja odkrytych warstw także jednoznacznie nie dyskwalifikuje takiej interpretacji omawianego obiektu. Ponieważ jednak nigdzie nie znaleziono ani jednego zabytku archeologicznego a także ani jednego, jednoznacznego wyróżnika archeologicznego (drobiny węgli drzewnych, polepy, przepalona ziemia itp.) na obecnym etapie badań tego miejsca nie można potwierdzić, iż było to poszukiwane, domniemane grodzisko.	/img/empty.png	/sondazowe/szymbark/sprawozdanie.pdf	/img/sondaz.png
+53.682909414,19.605955813	Widłąg	W ramach prac weryfikacyjnych wykonano 27 wierceń z użyciem laski geologicznej  (w ramach 2 linii), które  miały wykazać ewentualną obecność warstw, które można byłoby uznać za archeologiczne (sygnalizowane np. obecnością węgli drzewnych, przepaloną ziemią, drobinami polepy, ceramiki itp.) Głębokość sondowania wynosiła maksymalnie 1m (długość laski geologicznej). Oprócz wierceń otworzono  także 7 wykopów sondażowych.	/img/empty.png	/sondazowe/widlag/sprawozdanie.pdf	/img/sondaz.png
+53.632296933,19.622305469	Windyki 1	Uwzględniając  wyniki wszystkich wykonanych odwiertów oraz rezultaty badań na czterech otworzonych wykopach sondażowych należy uznać, że badany obszar nie jest poszukiwanym przez badaczy grodziskiem  a znaleziony obiekt (na wykopie nr 4) jak i nieliczne fragmenty ceramiki znalezionej na wykopie nr 1 i 2 sugerują raczej okazjonalny jedynie charakter użytkowania tego miejsca w przeszłości.	/img/empty.png	/sondazowe/windyki/sprawozdanie.pdf	/img/sondaz.png
+53.633582800,19.613544687	Windyki 2	Uwzględniając  wyniki wszystkich wykonanych odwiertów oraz rezultaty badań na czterech otworzonych wykopach sondażowych należy uznać, że badany obszar nie jest poszukiwanym przez badaczy grodziskiem  a znaleziony obiekt (na wykopie nr 4) jak i nieliczne fragmenty ceramiki znalezionej na wykopie nr 1 i 2 sugerują raczej okazjonalny jedynie charakter użytkowania tego miejsca w przeszłości.	/img/empty.png	/sondazowe/windyki/sprawozdanie.pdf	/img/sondaz.png
+53.646091299,19.634700277	Windyki-Tynwałd	Ponieważ w żadnym z odwiertów oraz wykopie sondażowym nie znaleziono żadnych archeologicznych świadectw działalności człowieka, fakt domniemanego "sztucznego" pochodzenia struktury nazywanej tutaj „wałem” (która mogła powstać podczas jakichś prac  ziemnych w nieodległych bądź całkiem współczesnych czasach) nie przesądza o starożytności badanego miejsca i w tym rozumieniu nie potwierdza, iż miejsce to w przeszłości mogło być grodziskiem.	/img/empty.png	/sondazowe/windyki_tynwald/sprawozdanie.pdf	/img/sondaz.png
+53.735973918,19.611523498	Wieprz st. 1	&nbsp;	/grodziska/wieprz/img/ryc1.jpg	/grodziska/wieprz/index.html	/img/grodzisko.png
+53.736438775,19.720458546	Urowo	&nbsp;	/grodziska/urowo/img/ryc1.jpg	/grodziska/urowo/index.html	/img/grodzisko.png
+53.753333637,19.697187212	Duba	&nbsp;	/grodziska/duba/img/ryc1.jpg	/grodziska/duba/index.html	/img/grodzisko.png
+53.754304847,19.700284893	Mozgowo	&nbsp;	/grodziska/mozgowo/img/ryc1.jpg	/grodziska/mozgowo/index.html	/img/grodzisko.png
+53.715271565,19.339041413	Susz st. 1	&nbsp;	/grodziska/susz/img/ryc1.jpg	/grodziska/susz/index.html	/img/grodzisko.png
+53.828472464,19.728637894	Janiki Wielkie	&nbsp;	/grodziska/janiki_wielkie/img/ryc1.jpg	/grodziska/janiki_wielkie/index.html	/img/grodzisko.png
+53.621620462,19.184574641	Łodygowo st. 1	&nbsp;	/grodziska/lodygowo_1/img/ryc1.jpg	/grodziska/lodygowo_1/index.html	/img/grodzisko.png
+53.757337902,19.620862685	Wieprz st. 20	&nbsp;	/grodziska/wieprz_20/img/ryc1.jpg	/grodziska/wieprz_20/index.html	/img/grodzisko.png
+53.559974415,19.342436831	Trupel st. 1	&nbsp;	/grodziska/trupel/img/ryc1.jpg	/grodziska/trupel/index.html	/img/grodzisko.png
+53.763465537,19.836788661	Miłomłyn st. 1	&nbsp;	/grodziska/milomlyn/img/ryc1.jpg	/grodziska/milomlyn/index.html	/img/grodzisko.png
+53.849072182,19.825114754	Wenecja st. 2	&nbsp;	/grodziska/wenecja/img/ryc1.jpg	/grodziska/wenecja/index.html	/img/grodzisko.png
+53.731006194,19.291572052	Karolewo st. 1	&nbsp;	/grodziska/karolewo/img/ryc1.jpg	/grodziska/karolewo/index.html	/img/grodzisko.png
+53.765939995,19.834767804	Miłomłyn st. 2	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.817104547,19.817494754	Liksajny	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.848201339,19.814125707	Wenecja st. 1	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.591065384,19.547125801	Iława Czarcie Jeziorko	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.592623774,19.565277698	Iława Królicza Góra	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.644635193,19.469187223	Szymbark Kopiec Napoleoński	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.621816608,19.472166290	Segnowy I	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.619973253,19.473565661	Segnowy II	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.810401375,19.593225299	Dobrzyki Schiefe Berg	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.825466905,19.551519202	Dobrzyki Burghugel	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.856493355,19.632512763	Bądki	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.856853851,19.590728966	Zalewo	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.606633712,19.215401398	Limża	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.817856771,19.692595438	Janiki Małe	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.785918626,19.837571755	Wólka Majdańska	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.822231241,19.870687199	Bartężek	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.766520704,19.378890020	Kamieniec	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.624342409,19.186418363	Łodygowo st. 2	&nbsp;	/grodziska/lodygowo_2/img/ryc1.jpg	/grodziska/lodygowo_2/index.html	/img/grodzisko.png
+53.618916446,19.185096313	Łodygowo st. 3	&nbsp;	/grodziska/lodygowo_3/img/ryc1.jpg	/grodziska/lodygowo_3/index.html	/img/sondaz.png
+53.631980405,19.343031810	Stary Folwark	&nbsp;	/grodziska/stary_folwark/img/ryc1.jpg	/grodziska/stary_folwark/index.html	/img/grodzisko.png
+53.61421,19.33574	Stary Folwark, st. 2	&nbsp;	/grodziska/stary_folwark_2/img/ryc1.jpg	/grodziska/stary_folwark_2/index.html	/img/grodzisko.png
+54.003810999,19.973058276	Strużyna	&nbsp;	/grodziska/struzyna/img/ryc1.jpg	/grodziska/struzyna/index.html	/img/grodzisko.png
+53.881333635,20.071981720	Tątławki	&nbsp;	/grodziska/tatlawki/img/ryc1.jpg	/grodziska/tatlawki/index.html	/img/grodzisko.png
+53.983642382,20.148608741	Raciszewo	&nbsp;	/grodziska/raciszewo/img/ryc1.jpg	/grodziska/raciszewo/index.html	/img/grodzisko.png
+54.074295147,20.068038296	Rotajny	&nbsp;	/grodziska/rotajny/img/ryc1.jpg	/grodziska/rotajny/index.html	/img/grodzisko.png
+54.064894114,20.042487423	Podągi	&nbsp;	/grodziska/podagi/img/ryc1.jpg	/grodziska/podagi/index.html	/img/grodzisko.png
+53.933246264,19.950100702	Plebania Wólka	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.911886541,19.963066412	Kruszewnia	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.916783394,19.827339763	Dobrocin Svantegora	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.681996779,19.317796081	Bałoszyce Małe	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.671273418,19.280883906	Bałoszyce	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.838889370,19.837260872	Bartężek Wyspa Zamkowa	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png	
+53.898440790,19.972131392	Dury Lisia Góra	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+54.067260565,20.101322678	Sportyny	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.976960141,19.810688223	Chojnik	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.896706271,20.031970371	Kretowiny	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.673738194,19.281271874	Bałoszyce pałac	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+53.75107,19.72892	Ligi	&nbsp;	/img/empty.png	/img/sondaz.png	/img/sondaz.png
+54.01833,19.98142	Zimnochy	&nbsp;	/grodziska/zimnochy/img/ryc1.jpg	/grodziska/zimnochy/index.html	/img/grodzisko.png
+54.01272,19.96950	Strużyna, st. 24	&nbsp;	/grodziska/struzyna_24/img/ryc1.jpg	/grodziska/struzyna_24/index.html	/img/grodzisko.png
+53.74131,20.14272	Plichta	&nbsp;	/grodziska/plichta/img/ryc1.jpg	/grodziska/plichta/index.html	/img/grodzisko.png
+53.67662,19.93373	Morliny	&nbsp;	/grodziska/morliny/img/ryc1.jpg	/grodziska/morliny/index.html	/img/grodzisko.png
+53.65891,20.02525	Lipowiec	&nbsp;	/grodziska/lipowiec/img/ryc1.jpg	/grodziska/lipowiec/index.html	/img/grodzisko.png
+53.65593,20.02297	Grabin	&nbsp;	/grodziska/grabin/img/ryc1.jpg	/grodziska/grabin/index.html	/img/grodzisko.png
+53.65207,20.00877	Lichtajny	&nbsp;	/grodziska/lichtajny/img/ryc1.jpg	/grodziska/lichtajny/index.html	/img/grodzisko.png
+53.62051,20.03752	Durąg	&nbsp;	/grodziska/durag/img/ryc1.jpg	/grodziska/durag/index.html	/img/grodzisko.png
