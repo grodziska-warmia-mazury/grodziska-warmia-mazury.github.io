@@ -94,6 +94,22 @@ function drawDetailMap(initFeatureTitle) {
         }),
         visible: false
       }),
+      new ol.layer.Image({
+        title: "ISOK hipsometria",
+        source: new ol.source.ImageWMS({
+          url: 'https://mapy.geoportal.gov.pl/wss/service/PZGIK/NMT/GRID1/WMS/Hypsometry',
+          params: {'layers': 'ISOK_HipsoDyn'}
+        }),
+        visible: false
+      }),
+      new ol.layer.Tile({
+        title: "ISOK cieniowanie",
+        source: new ol.source.TileWMS({
+          url: 'https://mapy.geoportal.gov.pl/wss/service/PZGIK/NMT/GRID1/WMS/ShadedRelief',
+          params: {'layers': 'Raster'}
+        }),
+        visible: false
+      }),
       new ol.layer.Tile({
         title: "Siatka AZP",
         source: new ol.source.TileWMS({
