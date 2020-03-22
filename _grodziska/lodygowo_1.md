@@ -5,6 +5,13 @@ ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"
 plan_pdf: "plan.pdf"
 plan_3d: "3d.jpg"
+kontekst:
+ - img: "lotnicze.jpg"
+   desc: "Zdjęcie lotnicze grodziska."
+ - img: "lotnicze1.jpg"
+   desc: "Zdjęcie lotnicze grodziska."
+ - img: "lotnicze2.jpg"
+   desc: "Zdjęcie lotnicze grodziska."
 znaleziska:
  - img: "ryc2.jpg"
    desc: ""

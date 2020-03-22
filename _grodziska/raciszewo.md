@@ -5,6 +5,9 @@ ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"
 plan_pdf: "plan.pdf"
 plan_3d: "3d.jpg"
+kontekst:
+ - img: "lotnicze.jpg"
+   desc: "Zdjęcie lotnicze grodziska."
 badania:
  - img: "fot1.jpg"
    desc: ""

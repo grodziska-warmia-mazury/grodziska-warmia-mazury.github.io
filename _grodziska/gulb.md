@@ -6,6 +6,8 @@ sprawozdanie: "sprawozdanie.pdf"
 plan: "ryc5.jpg"
 plan_3d: "ryc2.jpg"
 kontekst:
+ - img: "lotnicze.jpg"
+   desc: "Zdjęcie lotnicze grodziska."
  - img: "ryc3.jpg"
    desc: "Gulb, st. 1. Widok na wał i domniemaną fosę od strony wschodniej. Fot. Z. Kobyliński 2012."
  - img: "ryc4.jpg"

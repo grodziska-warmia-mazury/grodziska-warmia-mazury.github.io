@@ -5,6 +5,8 @@ ikona: "thumb.jpg"
 sprawozdanie: "sprawozdanie.pdf"
 plan: "ryc4.jpg"
 kontekst:
+ - img: "lotnicze.jpg"
+   desc: "Zdjęcie lotnicze grodziska."
  - img: "ryc2.jpg"
    desc: "Laseczno Małe, st. 1. Widok grodziska od północnego-wschodu. Fot. Z. Kobyliński."
  - img: "ryc3.jpg"
