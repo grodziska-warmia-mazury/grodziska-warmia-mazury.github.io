@@ -56,7 +56,7 @@ function drawDetailMap(initFeatureTitle) {
   });
 
   var map = new ol.Map({
-    controls: ol.control.defaults().extend([new ol.control.LayerSwitcher()]),
+    controls: ol.control.defaults().extend([new ol.control.LayerSwitcher(), new ol.control.ScaleLine()]),
     layers: [
       new ol.layer.Tile({
         title: "OpenStreetMaps",
