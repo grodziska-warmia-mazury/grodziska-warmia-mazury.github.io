@@ -113,8 +113,16 @@ function drawDetailMap(initFeatureTitle) {
       new ol.layer.Tile({
         title: "Siatka AZP",
         source: new ol.source.TileWMS({
-          url: 'http://mapy.zabytek.gov.pl/AZP/service.svc/get',
+          url: 'https://usluga.zabytek.gov.pl/AZP/service.svc/get',
           params: {'layers': 'Sekcja_arkusza_AZP,Numer_sekcji_AZP'}
+        }),
+        visible: false
+      }),
+      new ol.layer.Tile({
+        title: "Badania powierzchniowe",
+        source: new ol.source.TileWMS({
+          url: 'http://pow.grodziska-warmia-mazury.pl/cgi-bin/qgis_mapserv.fcgi',
+          params: {'layers': 'merged'}
         }),
         visible: false
       }),
