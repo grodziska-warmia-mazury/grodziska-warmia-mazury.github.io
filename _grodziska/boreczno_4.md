@@ -2,6 +2,7 @@
 title: Boreczno, st. 4, gm. Zalewo
 opis: ""
 ikona: "ryc1.jpg"
+sprawozdanie: "sprawozdanie.pdf"
 kontekst:
  - img: "lotnicze.jpg"
    desc: ""
