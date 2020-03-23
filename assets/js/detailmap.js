@@ -111,6 +111,14 @@ function drawDetailMap(initFeatureTitle) {
         visible: false
       }),
       new ol.layer.Tile({
+        title: "Geologia",
+        source: new ol.source.TileWMS({
+          url: 'http://cbdgmapa.pgi.gov.pl/arcgis/services/kartografia/smgp50k/MapServer/WmsServer',
+          params: {'layers': '0'}
+        }),
+        visible: false
+      }),
+      new ol.layer.Tile({
         title: "Siatka AZP",
         source: new ol.source.TileWMS({
           url: 'https://usluga.zabytek.gov.pl/AZP/service.svc/get',

@@ -55,7 +55,7 @@
                 </li>
                 {% endif %}
                 <li role="presentation">
-                  <a href="#tab-mapa" aria-controls="tab-mapa" role="tab" data-toggle="tab">MAPA</a>
+                  <a href="#tab-mapa" aria-controls="tab-mapa" role="tab" data-toggle="tab">GEOPORTAL</a>
                 </li>
               </ul>
 
@@ -212,8 +212,9 @@
                         <button type="button" id="layer4" class="btn btn-primary">LIDAR</button>
                         <button type="button" id="layer5" class="btn btn-primary">ISOK hipsometria</button>
                         <button type="button" id="layer6" class="btn btn-primary">ISOK cieniowanie</button>
-                        <button type="button" id="layer7" class="btn btn-primary">Siatka AZP</button>
-                        <button type="button" id="layer8" class="btn btn-primary">Badania powierzchniowe</button>
+                        <button type="button" id="layer7" class="btn btn-primary">Geologia</button>
+                        <button type="button" id="layer8" class="btn btn-primary">Siatka AZP</button>
+                        <button type="button" id="layer9" class="btn btn-primary">Badania powierzchniowe</button>
                       </div>
                       <div id="detail-map" class="detail-map"></div>
                     </div>
@@ -234,7 +235,7 @@
   {% include scripts.html %}
   <!-- The line below is only needed for old environments like Internet Explorer and Android 4.x -->
   <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=requestAnimationFrame,Element.prototype.classList,URL"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/ol3/4.0.1/ol.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ol3/4.6.5/ol.js"></script>
   <script src="{{ "/assets/js/ol3-layerswitcher.js" | prepend: site.baseurl }}"></script>
   <script src="{{ "/assets/js/detailmap.js" | prepend: site.baseurl }}"></script>
 
