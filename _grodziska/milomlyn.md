@@ -1,6 +1,6 @@
 ---
 title: Miłomłyn, st. 3 – Zamek
-opis: "Miłomłyn, st. 3 – Zamek"
+opis: "Średniowieczny dwór na kopcu, w późniejszym okresie miejsce lokalizacji zamku murowanego."
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"
 plan_pdf: "plan.pdf"

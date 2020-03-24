@@ -1,6 +1,6 @@
 ---
 title: Boreczno, st. 4, gm. Zalewo
-opis: ""
+opis: "Średniowieczny dwór na kopcu, w późniejszym okresie miejsce lokalizacji murowanej siedziby możnowładczej."
 ikona: "ryc1.jpg"
 sprawozdanie: "sprawozdanie.pdf"
 kontekst:

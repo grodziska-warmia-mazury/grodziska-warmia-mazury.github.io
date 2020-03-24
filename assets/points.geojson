@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "title": "Boreczno, st. 4, gm. Zalewo",
-        "description": "Boreczno, st. 4, gm. Zalewo",
+        "description": "Średniowieczny dwór na kopcu, w późniejszym okresie miejsce lokalizacji murowanej siedziby możnowładczej.",
         "img": "/grodziska/boreczno_4/img/ryc1.jpg",
         "link": "/grodziska/boreczno_4/index.html",
         "icon": "/img/grodzisko.png"
@@ -379,7 +379,7 @@
       "type": "Feature",
       "properties": {
         "title": "Miłomłyn, st. 3 – Zamek",
-        "description": "Miłomłyn, st. 3 - Zamek",
+        "description": "Średniowieczny dwór na kopcu, w późniejszym okresie miejsce lokalizacji zamku murowanego.",
         "img": "/grodziska/milomlyn/img/ryc1.jpg",
         "link": "/grodziska/milomlyn/index.html",
         "icon": "/img/grodzisko.png"
@@ -396,7 +396,7 @@
       "type": "Feature",
       "properties": {
         "title": "Wenecja, st. 2, gm. Morąg",
-        "description": "&nbsp;",
+        "description": "Duży starożytny kurhan wykorzystany w średniowieczu jako element fortyfikacji.",
         "img": "/grodziska/wenecja/img/ryc1.jpg",
         "link": "/grodziska/wenecja/index.html",
         "icon": "/img/grodzisko.png"
@@ -1042,7 +1042,7 @@
       "type": "Feature",
       "properties": {
         "title": "Bałoszyce - Pałac, gm. Susz",
-        "description": "Bałoszyce - Pałac",
+        "description": "Średniowieczny dwór na kopcu, w późniejszym okresie miejsce lokalizacji pałacu nowożytnego.",
         "img": "/grodziska/baloszyce/img/thumb.jpg",
         "link": "/grodziska/baloszyce/index.html",
         "icon": "/img/grodzisko.png"

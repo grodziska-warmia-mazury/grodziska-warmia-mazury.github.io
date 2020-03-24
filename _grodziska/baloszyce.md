@@ -1,7 +1,8 @@
 ---
 title: Bałoszyce - Pałac, gm. Susz
-opis: "Bałoszyce - Pałac."
+opis: "Średniowieczny dwór na kopcu, w późniejszym okresie miejsce lokalizacji pałacu nowożytnego."
 ikona: "thumb.jpg"
+sprawozdanie: "sprawozdanie.pdf"
 kontekst:
  - img: "lotnicze.jpg"
    desc: ""

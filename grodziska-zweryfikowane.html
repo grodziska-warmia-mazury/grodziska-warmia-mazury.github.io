@@ -40,7 +40,9 @@ layout: default
                 <h2></h2>
                 <p></p>
                 <a href="{{ grodzisko.url }}" class="btn buttonTransparent clearfix">Szczegóły</a>
+                {% if grodzisko.sprawozdanie %}
                 <a href="{{ grodzisko.sprawozdanie | prepend: "pdf/" | prepend: grodzisko.url | prepend: site.baseurl }}" class="btn buttonTransparent clearfix">Opracowanie<br/> PDF</a>
+                {% endif %}
               </div>
             </div>
           </div>
