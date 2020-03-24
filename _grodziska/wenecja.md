@@ -2,7 +2,7 @@
 title: Wenecja, st. 2, gm. Morąg
 opis: "Duży starożytny kurhan wykorzystany w średniowieczu jako element fortyfikacji."
 ikona: "ryc1.jpg"
-#sprawozdanie: "sprawozdanie.pdf"
+sprawozdanie: "sprawozdanie.pdf"
 plan_pdf: "plan.pdf"
 plan_3d: "3d.jpg"
 kontekst:
