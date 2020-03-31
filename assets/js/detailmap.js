@@ -160,9 +160,15 @@ function drawDetailMap(initFeatureTitle) {
       if (btn.hasClass("active")) {
         layer.setVisible(false);
         btn.removeClass("active")
+        if (layerid == '#layer9') {
+          $('#map-legend').hide();
+        }
       } else {
         layer.setVisible(true);
-        btn.addClass("active")
+        btn.addClass("active");
+        if (layerid == '#layer9') {
+          $('#map-legend').show();
+        }
       }
     });
   }
@@ -174,4 +180,5 @@ function drawDetailMap(initFeatureTitle) {
       });
     }
   });
+  $('#map-legend').hide();
 }
