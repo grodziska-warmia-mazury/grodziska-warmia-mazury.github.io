@@ -1,0 +1,59 @@
+---
+layout: default2
+---
+
+<!-- PAGE TITLE -->
+<section class="pageTitle" style="background-image:url({{ "/assets/img/pages/page-title-bg4.jpg" | prepend: site.baseurl }});">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="titleTable">
+          <div class="titleTableInner">
+            <div class="pageTitleInfo">
+              <h1>Grodziska zweryfikowane</h1>
+              <div class="under-border"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PAGE CONTENT -->
+<section class="mainContentSection packagesSection">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        {% for grodzisko in site.grodziska %}
+          {% if grodzisko.etap and grodzisko.etap == 2 %}
+        <div class="media packagesList">
+          <a class="media-left fancybox-pop" href="{{ grodzisko.img }}">
+            <img class="media-object spis-ikona" src="{{ grodzisko.ikona | prepend: "/img/" | prepend: grodzisko.url | prepend: site.baseurl }}" alt="Image">
+          </a>
+          <div class="media-body">
+            <div class="bodyLeft">
+              <h4 class="media-heading"><a href="{{ grodzisko.url }}">{{ grodzisko.title }}</a></h4>
+              <p>{{ grodzisko.opis }}</p>
+            </div>
+            <div class="bodyRight">
+              <div class="bookingDetails">
+                <h2></h2>
+                <p></p>
+                <a href="{{ grodzisko.url }}" class="btn buttonTransparent clearfix">Szczegóły</a>
+                {% if grodzisko.sprawozdanie %}
+                <a href="{{ grodzisko.sprawozdanie | prepend: "pdf/" | prepend: grodzisko.url | prepend: site.baseurl }}" class="btn buttonTransparent clearfix">Opracowanie<br/> PDF</a>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+
+  </div>
+</section>
+
+{% include footer.html %}

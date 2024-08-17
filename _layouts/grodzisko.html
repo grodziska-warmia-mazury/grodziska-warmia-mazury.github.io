@@ -6,7 +6,11 @@
 <body>
   {% include gtm.html %}
   <div class="main-wrapper">
-    {% include nav.html %}
+    {% if page.etap and page.etap == 2 %}
+      {% include etap2/nav.html %}
+    {% else %}
+      {% include etap1/nav.html %}
+    {% endif %}
 
     <!-- PAGE TITLE -->
     <section class="pageTitle" style="background-image:url({{ "/assets/img/pages/page-title-bg3.jpg" | prepend: site.baseurl }});">

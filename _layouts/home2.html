@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+{% include head.html %}
+
+<body class="changeHeader">
+  {% include gtm.html %}
+  <div class="main-wrapper">
+    {% include etap2/nav.html %}
+
+    {{ content }}
+
+  </div>
+  {% include modal.html %}
+  {% include scripts.html %}
+  {% include index-scripts.html %}
+  <script src="{{ "/assets/js/mainmap2.js" | prepend: site.baseurl }}"></script>
+</body>
+
+</html>

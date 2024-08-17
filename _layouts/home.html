@@ -6,14 +6,15 @@
 <body class="changeHeader">
   {% include gtm.html %}
   <div class="main-wrapper">
-    {% include nav.html %}
+    {% include etap1/nav.html %}
 
     {{ content }}
 
   </div>
   {% include modal.html %}
   {% include scripts.html %}
-  {% include index/index-scripts.html %}
+  {% include index-scripts.html %}
+  <script src="{{ "/assets/js/mainmap.js" | prepend: site.baseurl }}"></script>
 </body>
 
 </html>
