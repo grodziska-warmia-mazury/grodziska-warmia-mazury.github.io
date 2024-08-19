@@ -61,7 +61,7 @@ $(document).ready(function() {
     ],
     target: 'map2',
     view: new ol.View({
-      center: ol.proj.fromLonLat([19.6957, 54]),
+      center: ol.proj.fromLonLat([19.6957, 53.95]),
       zoom: 9
     })
   });

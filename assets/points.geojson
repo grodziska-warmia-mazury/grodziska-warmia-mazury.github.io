@@ -1585,20 +1585,6 @@
           0
         ]
       }
-    },
-{ "type": "Feature", "properties": {
-        "title": "Boreczno, st. 5, gm. Zalewo",
-        "description": "Grodzisko w Borecznie, st. 5 nie było do tej pory znane. Położone jest na zachodnim brzegu obecnie bezimiennego potoku łączącego Jeziora Młynek i Piekło. Zajmuje wyeksponowany cypel, który od wschodu stromo opada w kierunku doliny potoku, a od północy i południa ograniczają go głębokie jary. Charakteryzuje się trzema liniami fos i dwoma liniami wałów, które wyznaczają obszar majdanu i odcinają cypel od wysoczyzny. Wstępne wyniki badań pozwalają datować grodzisko na wczesną epokę żelaza.",
-        "img": "/grodziska/boreczno_5/img/ryc1.jpg",
-        "link": "/grodziska/boreczno_5/index.html",
-        "icon": "/img/grodzisko.png"
-      }, "geometry": { "type": "Point", "coordinates": [ 19.717227983442012, 53.794529740628548 ] } },
-{ "type": "Feature", "properties": {
-        "title": "Wysoka Wieś, st. 8, gm. Ostróda",
-        "description": "&nbsp;",
-        "img": "/img/empty.png",
-        "link": "/img/sondaz.png",
-        "icon": "/img/sondaz.png"
-      }, "geometry": { "type": "Point", "coordinates": [ 19.965413876926974, 53.529032420221078 ] } }
+    }
   ]
 }
