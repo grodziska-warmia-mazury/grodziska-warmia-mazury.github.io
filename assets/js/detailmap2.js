@@ -39,7 +39,7 @@ function drawDetailMap(initFeatureTitle) {
   });
 
   var vectorSource = new ol.source.Vector({
-    url: '/assets/points.geojson',
+    url: '/assets/points2.geojson',
     format: new ol.format.GeoJSON()
   });
 

@@ -242,7 +242,12 @@
   <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=requestAnimationFrame,Element.prototype.classList,URL"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/ol3/4.6.5/ol.js"></script>
   <script src="{{ "/assets/js/ol3-layerswitcher.js" | prepend: site.baseurl }}"></script>
-  <script src="{{ "/assets/js/detailmap.js" | prepend: site.baseurl }}"></script>
+  {% if page.etap and page.etap == 2 %}
+      <script src="{{ "/assets/js/detailmap2.js" | prepend: site.baseurl }}"></script>
+    {% else %}
+      <script src="{{ "/assets/js/detailmap.js" | prepend: site.baseurl }}"></script>
+    {% endif %}
+  
 
   <script>
   var firstRun = true;
