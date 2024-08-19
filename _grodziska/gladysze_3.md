@@ -1,5 +1,5 @@
 ---
-title: Gładysze, st. 2, gm. Wilczęta
+title: Gładysze, st. 3, gm. Wilczęta
 opis: ""
 etap: 2
 ikona: "Gładysze_3_NMT.jpg"
