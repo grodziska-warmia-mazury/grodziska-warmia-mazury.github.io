@@ -3854,7 +3854,7 @@ header {
 
 /*=== 6.2 PROMOTION ===*/
 .promotionWrapper {
-  background-image: url("{{ "/assets/img/pages/page-title-bg8.jpg" | prepend: site.baseurl }}");
+  background-image: url("{{ "/assets/img/pages/intro-bg.jpg" | prepend: site.baseurl }}");
   background-attachment: fixed;
   width: 100%;
   -webkit-background-size: cover;

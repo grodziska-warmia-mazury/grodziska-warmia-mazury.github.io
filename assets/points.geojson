@@ -1587,48 +1587,6 @@
       }
     },
 { "type": "Feature", "properties": {
-        "title": "Winiec, st. 2, gm. Miłomłyn",
-        "description": "Grodzisko uwzględnione na mapie Emila Hollacka z 1908 roku ale do niedawna nie znajdujące się w obecnej ewidencji zabytków archeologicznych. Majdan grodziska otoczony jest co najmniej trzema liniami wałów i fos i zajmujące wysokie wyniesienie przy zachodnim brzegu Jeziora Bartężek. Główną fazę funkcjonowania stanowiska można datować na wczesną epokę żelaza. Fazę młodszą wyznaczają ruiny dziewiętnastowiecznego domku myśliwskiego, które znajdują się w południowo-zachodniej części majdanu.",
-        "img": "/grodziska/winiec_2/img/ryc1.jpg",
-        "link": "/grodziska/winiec_2/index.html",
-        "icon": "/img/grodzisko.png"
-      }, "geometry": { "type": "Point", "coordinates": [ 19.838665103095423, 53.827745785434011 ] } },
-{ "type": "Feature", "properties": {
-        "title": "Gładysze, st. 1, gm. Wilczęta",
-        "description": "Grodzisko cyplowe znajduje się wschód od wsi Gładysze i zajmuje wyniesienie wznoszące się na około 20 m ponad rozlewiskiem rzeki Pasłęki. Walory obronne stanowiska, poza dwoma liniami wałów i fosą odcinającymi cypel od wysoczyzny, podkreślają dwa głębokie jary ograniczające stanowisko od północy i południa. Dotychczasowe badania opisywały stanowisko, jako pruskie. Najnowsze weryfikacje pozwalają uszczegółowić chronologię o fazę datowaną na schyłek epoki brązu.",
-        "img": "/grodziska/gladysze_1/img/ryc1.jpg",
-        "link": "/grodziska/gladysze_1/index.html",
-        "icon": "/img/grodzisko.png"
-      }, "geometry": { "type": "Point", "coordinates": [ 19.941591868076678, 54.160767796522052 ] } },
-{ "type": "Feature", "properties": {
-        "title": "Gładysze, st. 2, gm. Wilczęta",
-        "description": "Grodzisko cyplowe dotąd nieznane. Znajduje się na wschód od wsi Gładysze, w odległości około 300 m na północ od grodziska Gładysze, st. 1. Oba stanowiska oddziela od siebie głęboki jar, którym płynie dopływ Pasłęki. Obszar cypla od wysoczyzny oddziela jeden wał i fosa o nieznacznych rozmiarach. Stanowisko wstępnie datowane na okres wczesnego średniowiecza.",
-        "img": "/grodziska/gladysze_2/img/ryc1.jpg",
-        "link": "/grodziska/gladysze_2/index.html",
-        "icon": "/img/grodzisko.png"
-      }, "geometry": { "type": "Point", "coordinates": [ 19.940427295963428, 54.163036759794885 ] } },
-{ "type": "Feature", "properties": {
-        "title": "Gładysze, st. 3, gm. Wilczęta",
-        "description": "&nbsp;",
-        "img": "/img/empty.png",
-        "link": "/img/sondaz.png",
-        "icon": "/img/sondaz.png"
-      }, "geometry": { "type": "Point", "coordinates": [ 19.93783491336011, 54.146988147105304 ] } },
-{ "type": "Feature", "properties": {
-        "title": "Gładysze, st. 4, gm. Wilczęta",
-        "description": "&nbsp;",
-        "img": "/img/empty.png",
-        "link": "/img/sondaz.png",
-        "icon": "/img/sondaz.png"
-      }, "geometry": { "type": "Point", "coordinates": [ 19.935179228775915, 54.14332165025899 ] } },
-{ "type": "Feature", "properties": {
-        "title": "Wysoka Wieś, st. 9, gm. Ostróda",
-        "description": "Duże grodzisko położone w odległości około 600 m na południe od grodziska Wysoka Wieś, st. 7. Zajmuje masywne wyniesienie, na którego szczycie znajduje się majdan, a którego stoki uformowano w szerokie tarasy. Wstępne wyniki badań wskazują, że stanowisko funkcjonowało we wczesnej epoce żelaza.",
-        "img": "/grodziska/wysoka_wies_9/img/ryc1.jpg",
-        "link": "/grodziska/wysoka_wies_9/index.html",
-        "icon": "/img/grodzisko.png"
-      }, "geometry": { "type": "Point", "coordinates": [ 19.989006270207113, 53.547033813802045 ] } },
-{ "type": "Feature", "properties": {
         "title": "Boreczno, st. 5, gm. Zalewo",
         "description": "Grodzisko w Borecznie, st. 5 nie było do tej pory znane. Położone jest na zachodnim brzegu obecnie bezimiennego potoku łączącego Jeziora Młynek i Piekło. Zajmuje wyeksponowany cypel, który od wschodu stromo opada w kierunku doliny potoku, a od północy i południa ograniczają go głębokie jary. Charakteryzuje się trzema liniami fos i dwoma liniami wałów, które wyznaczają obszar majdanu i odcinają cypel od wysoczyzny. Wstępne wyniki badań pozwalają datować grodzisko na wczesną epokę żelaza.",
         "img": "/grodziska/boreczno_5/img/ryc1.jpg",
@@ -1636,32 +1594,11 @@
         "icon": "/img/grodzisko.png"
       }, "geometry": { "type": "Point", "coordinates": [ 19.717227983442012, 53.794529740628548 ] } },
 { "type": "Feature", "properties": {
-        "title": "Wokiele, st. 1, gm. Górowo Iławieckie",
-        "description": "Grodzisko zajmuje niewielkie wyniesienie położone w bezpośrednim sąsiedztwie rzeki Elmy, której wody opływają je od południa, a częściowo także od wschodu i zachodu. Majdan i umocnienia dobrze widoczne od strony zachodniej. Część wschodnia częściowo zniszczona przez młodsze młynisko. Stanowisko datowane na okres średniowiecza.",
-        "img": "/grodziska/wokiele_1/img/ryc1.jpg",
-        "link": "/grodziska/wokiele_1/index.html",
-        "icon": "/img/grodzisko.png"
-      }, "geometry": { "type": "Point", "coordinates": [ 20.550498673899035, 54.342832069054872 ] } },
-{ "type": "Feature", "properties": {
-        "title": "Wysoka Wieś, st. 7, gm. Ostróda",
-        "description": "Niewielkie grodzisko otoczone co najmniej trzema liniami dookolnych wałów i fos, położone we wschodniej części Wzgórz Dylewskich. Stanowisko silnie zniszczone w wyniku gospodarki leśnej. Powstałe i funkcjonujące we wczesnej epoce żelaza.",
-        "img": "/grodziska/wysoka_wies_7/img/ryc1.jpg",
-        "link": "/grodziska/wysoka_wies_7/index.html",
-        "icon": "/img/grodzisko.png"
-      }, "geometry": { "type": "Point", "coordinates": [ 19.986492613042572, 53.552188007808567 ] } },
-{ "type": "Feature", "properties": {
         "title": "Wysoka Wieś, st. 8, gm. Ostróda",
         "description": "&nbsp;",
         "img": "/img/empty.png",
         "link": "/img/sondaz.png",
         "icon": "/img/sondaz.png"
-      }, "geometry": { "type": "Point", "coordinates": [ 19.965413876926974, 53.529032420221078 ] } },
-{ "type": "Feature", "properties": {
-        "title": "Słonecznik - Zamkowy Ostrów, gm. Morąg",
-        "description": "Grodzisko położone na wyspie Jeziora Bartężek, w odległości około 1,2 km na północ od grodziska Winiec, st. 2. Częściowo zniszczone, zapewne w wyniku prac związanych z budową Kanału Elbląskiego. Materiał zabytkowy odnajdowany na powierzchni stanowiska pozwala wyznaczyć jego chronologię na wczesną epokę żelaza.",
-        "img": "/grodziska/slonecznik/img/ryc1.jpg",
-        "link": "/grodziska/slonecznik/index.html",
-        "icon": "/img/grodzisko.png"
-      }, "geometry": { "type": "Point", "coordinates": [ 19.83709065824014, 53.838906893871339 ] } }
+      }, "geometry": { "type": "Point", "coordinates": [ 19.965413876926974, 53.529032420221078 ] } }
   ]
 }
