@@ -1,6 +1,6 @@
 ---
 title: Woryny, st. 1, gm. Górowo Iławeckie
-opis: ""
+opis: "Grodzisko znane było od lat 20. XIX w. pod nazwami Burgwall i Schlossberg. Prawdopodobnie powstało pod koniec XIII lub w XIV w. "
 etap: 2
 ikona: "Woryny_1_NMT.jpg"
 plan: Woryny_1_Plan_warstwicowy.jpg

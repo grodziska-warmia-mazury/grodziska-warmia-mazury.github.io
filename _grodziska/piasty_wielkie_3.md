@@ -1,6 +1,6 @@
 ---
 title: Piasty Wielkie, st. 3, gm. Górowo Iławeckie
-opis: ""
+opis: "Stanowisko bardzo silnie zniszczone."
 etap: 2
 ikona: "PiastyWielkie_3_NMT.jpg"
 plan: PiastyWielkie_3_Plan_warstwicowy.jpg
