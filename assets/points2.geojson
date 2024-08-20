@@ -1,509 +1,702 @@
 {
     "type": "FeatureCollection",
     "features": [
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 19.966667,53.666667,0 ]
-     },
-     "properties": {
-     "title":"Ornowo, st. 3, gm. Ostróda",
-     "description":"Stanowisko jest obiektem o rozbudowanej chronologii obejmującej okresy od neolitu, przez wczesną i późną epokę brązu, wczesną epokę żelaza, aż po wczesne średniowiecze, przy czym dla dwóch najmłodszych okresów można mówić już o obiekcie umocnionym. Znane co najmniej od początku XIX w. jako Lischaken, Kr. Osterode; Leschaken, Kr. Osterode; Schwedenschanze oraz Schneckenberg. Grodzisko było badane wykopaliskowo w latach 1965–1966, pod kierownictwem R. Odoja i B. Wawrzykowskiej. Kolejne badania realizował w latach 2011– 2012 Instytut Archeologii UMK w Toruniu. Grodzisko leży na cyplowatym wzniesieniu nad potokiem Morlińska Struga. Majdan otoczony jest dobrze zachowanym wałem. Najstarsze ślady umocnień należy wiązać z kulturą kurhanów zachodniobałtyjskich. Kolejna czytelna faza osadnicza nastąpiła w okresie wczesnego średniowiecza. ",
-     "img":"/grodziska/ornowo_3/img/Ornowo_3_NMT.jpg",
-     "link":"/grodziska/ornowo_3/index.html",
-     "icon":"/img/grodzisko.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 19.716667,53.794444,0 ]
-     },
-     "properties": {
-     "title":"Boreczno, st. 8, gm. Zalewo",
-     "description":"Grodzisko do tej pory nie znane. Położone na zachodnim brzegu bezimiennego potoku łączącego jeziora Młynek i Piekło. Zajmuje wyeksponowany cypel, odcięty od wysoczyzny dwoma wałami i trzema fosami. Stanowisko było użytkowane od schyłku La Tène A przez La Tène B.",
-     "img":"/grodziska/boreczno_8/img/Boreczno_8_NMT.jpg",
-     "link":"/grodziska/boreczno_8/index.html",
-     "icon":"/img/grodzisko.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.608889,54.320833,0 ]
-     },
-     "properties": {
-     "title":"Nowa Wieś Iławiecka, st. 1, gm. Górowo Iławieckie",
-     "description":"Weryfikacja negatywna. W ewidencji AZP stanowisko opisane jako grodzisko. Poza nagrobkami z końca XIX i pierwszej połowy XX w na powierzchni cypla brak jest jakichkolwiek innych antropogenicznych form krajobrazu. W trakcie badań, zarówno wykopaliskowych, jak i powierzchniowych, nie zarejestrowano na obszarze cypla warstw kulturowych, które można by wiązać z funkcjonowaniem grodziska.",
-     "img":"/img/empty.png",
-     "link":"/img/sondaz.png",
-     "icon":"/img/sondaz.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.526944,54.249722,0 ]
-     },
-     "properties": {
-     "title":"Zielenica, stan 15, gm. Górowo Iławieckie",
-     "description":"Weryfikacja negatywna. ",
-     "img":"/img/empty.png",
-     "link":"/img/sondaz.png",
-     "icon":"/img/sondaz.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.559722,54.221111,0 ]
-     },
-     "properties": {
-     "title":"Piaseczno, st. 1, gm. Górowo Iławieckie",
-     "description":"Weryfikacja negatywna. W ewidencji AZP grodzisko stożkowe wiązane było z osadnictwem krzyżackim i datowane na około XIII.",
-     "img":"/img/empty.png",
-     "link":"/img/sondaz.png",
-     "icon":"/img/sondaz.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.41,54.342778,0 ]
-     },
-     "properties": {
-     "title":"Zamkowa Góra w Leśnictwie Orsy",
-     "description":"Weryfikacja negatywna. Podczas badań wykopaliskowych nie natrafiono na warstwy kulturowe starsze niż XX w.",
-     "img":"/img/empty.png",
-     "link":"/img/sondaz.png",
-     "icon":"/img/sondaz.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.515,54.274444,0 ]
-     },
-     "properties": {
-     "title":"Piasty Wielkie, st. 3, gm. Górowo Iławeckie",
-     "description":"Stanowisko bardzo silnie zniszczone.",
-     "img":"/grodziska/piasty_wielkie_3/img/PiastyWielkie_3_NMT.jpg",
-     "link":"/grodziska/piasty_wielkie_3/index.html",
-     "icon":"/img/grodzisko.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.283333,54.372222,0 ]
-     },
-     "properties": {
-     "title":"Głębock, st. 5, gm. Lelkowo",
-     "description":"Grodzisko do tej pory nie było zewidencjonowane w ramach projektu AZP. Znajduje się na wysokim cyplu wcinającym się w dolinę rzeki Szarki. W okresie przedwojennym znane było badaczom niemieckim pod nazwą Alte Schanze. Majdan jest owalny, odcięty od wysoczyzny wałem i fosą. Na obecnym etapie badań można zatem stwierdzić, że w Głębocku z pewnością istniało grodzisko i być może było ono użytkowane w dwóch okresach. ",
-     "img":"/grodziska/glebock_5/img/Głębock_5_NMT.jpg",
-     "link":"/grodziska/glebock_5/index.html",
-     "icon":"/img/grodzisko.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.312778,54.371389,0 ]
-     },
-     "properties": {
-     "title":"Jarzeń, st. 1, gm. Lelkowo",
-     "description":"Grodzisko, w okresie przedwojennym znane pod nazwą Lust B. oraz Alte Schanze, zajmuje szczyt niedużego, odosobnionego wyniesienia. Znane jest z map niemieckich z końca dziewiętnastego wieku. Lokalizacja grodziska została ustalona przez Mirosława Jankowskiego w 1990r. Majdan owalny, otoczony pojedynczym pierścieniowatym wałem. Forma i rozmiary odpowiadają założeniom typu gródek stożkowaty lub nieco młodszym dworom na kopcu. Na obecnym etapie badań należałoby przyjąć hipotezę, że w okresie nowożytnym przeprowadzone zostały prace ziemne mające na celu uformowanie umocnień na szczycie wyniesienia znajdującego się na południe od wsi Jarzeń, tak aby mógł być on bazą dla siedziby szlacheckiej. Przeprowadzone wykopaliska nie wykazały jednak, aby taka siedziba powstała.",
-     "img":"/grodziska/jarzen_1/img/Jarzen_1_NMT.jpg",
-     "link":"/grodziska/jarzen_1/index.html",
-     "icon":"/img/grodzisko.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.216667,54.273889,0 ]
-     },
-     "properties": {
-     "title":"Wilknity, st. 6, gm. Lelkowo",
-     "description":"Grodzisko nie było do tej pory zewidencjonowane w ramach AZP. Znane było badaczom niemieckim, którzy łączyli je z obszarem Mehlsacker Staadtheide. Grodzisko zajmuje szczyt niedużego, trójkątnego w podstawie wypiętrzenia. Majdan jest silnie zniszczony w wyniku grabieżczego wybierania piasku. Otoczony jest wałem oraz znajdującymi się poniżej niego dwoma tarasami ze szczątkowo zachowanymi wałami. Umocnienia powstały we wczesnej epoce żelaza. Na podstawie analiz ceramiki oraz radiodatowania można powiązać je z ludnością kultury kurhanów zachodniobałtyjskich.",
-     "img":"/grodziska/wilknity_6/img/Wilknity_6_NMT.jpg",
-     "link":"/grodziska/wilknity_6/index.html",
-     "icon":"/img/grodzisko.png"
-     }
-   },
-   {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 19.93783491336011,54.146988147105304,0 ]
-    },
-    "properties": {
-    "title":"Gładysze, st. 3, gm.  Wilczęta",
-    "description":"Grodzisko zajmuje nieduży cypel nad Dobrską Strugą, odcięte od wysoczyzny za pomocą niedużego wału i suchej fosy, które są słabo czytelne w terenie. Data radiowęglowa pozyskana z próby węgla z wypełniska fosy dała wynik VIII–V w. p. n. e. Określenie dokładnej afiliacji kulturowej ludności, która zbudowała i zamieszkiwała osiedle obronne w Gładyszach, na obecnym etapie badań wydaje się niemożliwe i konieczne są dalsze badania. Warte odnotowania jest, że w warstwie erozyjnej na stoku cypla i brzegu rzeki znajduje się wychodnia krzemienia bałtyckiego.",
-    "img":"/grodziska/gladysze_3/img/Gładysze_3_NMT.jpg",
-    "link":"/grodziska/gladysze_3/index.html",
-    "icon":"/img/grodzisko.png"
-    }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.1425,54.1225,0 ]
-     },
-     "properties": {
-     "title":"Orneta, st. 7, gm. Orneta",
-     "description":"Grodzisko było zewidencjonowane w ramach AZP, ale jego lokalizacja nie została zaznaczona w Karcie Ewidencji Stanowiska Archeologicznego, pomimo tego, że informacje o nim pojawiały się w różnego rodzaju dokumentach niemieckich. Weryfikację terenową stanowiska przeprowadziła Barbara Czarnecka w 1969 oraz Maria Pikulińska Ciuk w 1970. Wyniesienie, na którym znajduje się grodzisko, zlokalizowane jest w obrębie doliny Drwęcy Warmińskiej. Przeprowadzona analiza zdjęć lotniczych i Numerycznego Modelu Terenu wskazuje, że na obszarze omawianego wyniesienia mogło znajdować się złożone założenie architektoniczne, na które składały się co najmniej dwa budynki – jeden na planie zbliżonym do koła na szczycie wyniesienia i zespół mniejszych na łagodnym stoku wyniesienia po stronie północnej. Wyniesienie było najpewniej zaopatrzone w nieduży wał. Faktyczną funkcję omawianego obiektu określa jednak najpewniej dokument z 1384 roku informujący o „Leprosorio sancti Georgij, extra muros ibidem situatis”. Wspomniane „Leprosorio” (pod wezwaniem św. Jerzego) to leprozorium, czyli zamknięty dom dla chorych na trąd. W zbliżonym okresie ufundowano w Prusach więcej tego typu schronień: w Braniewie w 1378 roku, w Dobrym Mieście i Fromborku w 1379 roku. Z dużą dozą prawdopodobieństwa można więc zinterpretować opisany obiekt obronny z poświadczonym w źródłach pisanych przytułkiem dla trędowatych. Od tego obiektu mogła wziąć się dawna nazwa tutejszego lasu – Hospital Heide.",
-     "img":"/grodziska/orneta_7/img/Orneta_7_NMT.jpg",
-     "link":"/grodziska/orneta_7/index.html",
-     "icon":"/img/grodzisko.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 19.915278,54.246667,0 ]
-     },
-     "properties": {
-     "title":"Giedyle, st. 1, gm. Płoskinia",
-     "description":"Grodzisko badaczom niemieckim znane było od co najmniej początku XIX wieku pod nazwą Pantenberg. Zajmuje koniec szerokiego cypla na wschodnim, wysokim brzegu doliny rzeki Pasłęki. Majdan wydzielony jest za pomocą wału i równolegle ułożonej względem niego fosy. Stanowisko miało co najmniej 2 fazy użytkowania. Faza I związana jest z osadnictwem ludności pruskiej około X w. Faza II, związana była z budową wału ziemnego i równoległej względem niego fosy. Ze względu na brak radiodatowania konstrukcji, można jedynie postawić hipotezę bazującą na analizie formy umocnień. Taka konstrukcja wału nie jest charakterystyczna dla typowych fortyfikacji wznoszonych przez Zakon Krzyżacki. Mógł być więc to szaniec usypany przez ludność pruską w momencie pojawienia się zagrożenia ze strony krzyżaków w celu obrony pobliskiego brodu jako strategicznego miejsca. Z drugiej strony mógł to być jednak tymczasowy fort wybudowany przez Krzyżaków po zajęciu tego terytorium. Miałby on zabezpieczyć drogę ewentualnej ewakuacji. Niezależnie więc od tego, kto umocnienia zbudował, prawdopodobnie powstały one w momencie najazdu Krzyżaków na te ziemie, co można datować na około połowę XIII wieku. Po opuszczeniu umocnień, obszar grodziska przestał pełnić funkcje obronne.",
-     "img":"/grodziska/giedyle_1/img/Giedyle_1_NMT.jpg",
-     "link":"/grodziska/giedyle_1/index.html",
-     "icon":"/img/grodzisko.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.2,54.097222,0 ]
-     },
-     "properties": {
-     "title":"Opin, st. 16, gm. Orneta",
-     "description":"Grodzisko do tej pory nie było zewidencjonowane w ramach AZP. zajmuje cypel wchodzący w dolinę rzeki Lubomirska Struga. Majdan uległ prawie całkowitemu zniszczeniu w wyniku podmywania przez rzekę i jest odcięty od wysoczyzny za pomocą trzech wałów rozdzielonych dwiema suchymi fosami. Stanowisko należy łączyć z osadnictwem kultury kurhanów zachodbiobałtyjskich.",
-     "img":"/grodziska/opin_16/img/Opin_16_NMT.jpg",
-     "link":"/grodziska/opin_16/index.html",
-     "icon":"/img/grodzisko.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 19.866111,54.248333,0 ]
-     },
-     "properties": {
-     "title":"Dąbrowa, st. 8, gm. Płoskinia",
-     "description":"Grodzisko nie było do tej pory zewidencjonowane w ramach AZP, ale wymieniane jest w literaturze od lat osiemdziesiątych XX wieku. Grodzisko leży bezpośrednio na północny wschód od wczesnożelaznego cmentarzyska kurhanowego. Zajmuje wąski, wysoki cypel na wschodnim brzegu Jeziora Pierzchalskiego, odcięty od wysoczyzny za pomocą trzech linii wałów i fos. Wał otaczający majdan jest dobrze widoczny w terenie. Badania wykopaliskowe wykazały, że umocnienia powstały we wczesnej epoce żelaza i można je powiązać z kulturą kurhanów zachodniobałtyjskich. Założenie ma analogiczną formę co oddalone od niego o 1,3 grodzisko w Dąbrowie, st. 9.",
-     "img":"/grodziska/dabrowa_8/img/Dąbrowa_8_NMT.jpg",
-     "link":"/grodziska/dabrowa_8/index.html",
-     "icon":"/img/grodzisko.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 19.883333,	54.245,0 ]
-     },
-     "properties": {
-     "title":"Dąbrowa, st. 9, gm. Płoskinia",
-     "description":"Grodzisko nie było do tej pory zewidencjonowane w ramach projektu AZP. Stanowisko leży na wysokim wyeksponowanym cyplu wchodzącym od północy w dolinę rzeki Pasłęki. Majdan odcięty jest od wysoczyzny za pomocą systemu wałów, rozdzielonych suchymi fosami. W terenie bardzo dobrze czytelne są dwa wały. Zasiedlane było w dwóch kolejnych okresach. Najstarsze umocnienia datować można na przełom okresu halsztackiego i lateńskiego. Ceramika na stanowisku nosi cechy diagnostyczne dla kultury kurhanów zachodniobałtyjskich. Założenie ma analogiczną formę co oddalone od niego o 1,3 km na zachód grodzisko w Dąbrowie, st. 8.",
-     "img":"/grodziska/dabrowa_9/img/Dąbrowa_9_NMT.jpg",
-     "link":"/grodziska/dabrowa_9/index.html",
-     "icon":"/img/grodzisko.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.033056,54.203333,0 ]
-     },
-     "properties": {
-     "title":"Bornity, st. 12, gm. Pieniężno",
-     "description":"Grodzisko utworzono odcinając nieduży cypel od wysoczyzny za pomocą systemu trzech wałów i dwóch suchych fos. Od strony wschodniej i zachodniej cypel ograniczają dwa wąwozy. Funkcjonowało na przełomie IX i X wieku. Kolejna faza osadnicza nastąpiła po dłuższej przerwie, dopiero w późnym średniowieczu.",
-     "img":"/grodziska/bornity_12/img/Bornity_12_NMT.jpg",
-     "link":"/grodziska/bornity_12/index.html",
-     "icon":"/img/grodzisko.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.088056,54.205,0 ]
-     },
-     "properties": {
-     "title":"Wojnity, st. 1, gm. Pieniężno",
-     "description":"Grodzisko znane badaczom niemieckim od początku XIX wieku pod nazwami Burgwall, Schwedenschanzen oraz Fliehburg, położone jest na wysokim cyplu nad brzegiem bezimiennego strumienia wpadającego do rzeki Wałszy. Grodzisko posiada dwa wały i fosę. Wał zewnętrzny wraz z fosą odcina cypel od wysoczyzny. Grodzisko zasiedlone było przez ludność pruską w IX–X w. Młodszy okres osadnictwa średniowiecznego należy wiązać z falą osadnictwa krzyżackiego. Być może więc na obszarze grodziska w Wojnitach planowane było założenie miasta, ale plan ten nie został zrealizowany.",
-     "img":"/grodziska/wojnity_1/img/Wojnity_1_NMT.jpg",
-     "link":"/grodziska/wojnity_1/index.html",
-     "icon":"/img/grodzisko.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.11,54.230833,0 ]
-     },
-     "properties": {
-     "title":"Pieniężno (Kajnity), st. 2, gm. Pieniężno",
-     "description":"Grodzisko w Pieniężnie było zewidencjonowane w ramach AZP, ale jego lokalizacja wskazana była w innym miejscu. Znane było badaczom niemieckim od początku XIX wieku. Prawdopodobnie był to umocniony dworek rycerski, który został zniszczony podczas prac związanych z budową leśniczówki.",
-     "img":"/grodziska/pieniezno/img/Pieniezno_NMT.jpg",
-     "link":"/grodziska/pieniezno/index.html",
-     "icon":"/img/grodzisko.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.1,54.224444,0 ]
-     },
-     "properties": {
-     "title":"Kajnity, st. 1, gm. Pieniężno",
-     "description":"Grodzisko znane było badaczom niemieckim od początku XIX w. pod nazwami Spitze berg, Spitzberg i  Spitz-B. Stanowisko leży na szczycie masywnego wypiętrzenia w dolinie rzeki Wałszy i zostało częściowo podmyte. Na jego szczycie uchwycono w trakcie badań prawdopodobnie relikt ka­miennego fundamentu, jednak brak źródeł nie pozwala na wydatowanie tego obiektu. Włożenie pracy w uformowa­nie podwyższenia, które dodatkowo mo­gło podkreślać rangę obiektu, który miał­by się na nim znajdować, może sugerować, że był to gródek typu motte.",
-     "img":"/grodziska/kajnity_1/img/Kajnity_1_NMT.jpg",
-     "link":"/grodziska/kajnity_1/index.html",
-     "icon":"/img/grodzisko.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.283333,54.253889,0 ]
-     },
-     "properties": {
-     "title":"Lubianka, st. 6, gm. Pieniężno",
-     "description":"Stanowisko znane niemieckim badaczom przedwojennym pod nazwami Schloss Plut, Wallberg i Pluta Berg. Na początku XIV wieku w Plutach wybudowano zamek, którego fundatorem była kapituła warmińska. Najstarszy horyzont osadniczy można datować na wczesną epokę żelaza. Kolejna faza związana jest ze wczesnym średniowieczem i budową fortyfikacji.",
-     "img":"/grodziska/lubianka_6/img/Lubianka_6_NMT.jpg",
-     "link":"/grodziska/lubianka_6/index.html",
-     "icon":"/img/grodzisko.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.345,54.2425,0 ]
-     },
-     "properties": {
-     "title":"Wopy, st. 5, gm. Pieniężno",
-     "description":"Grodzisko nie było do tej pory zewidencjonowane w ramach AZP. Stanowisko ajmuje szczyt wysokiego wyniesienia nad Wałszą. Majdan otoczony jest dwoma wałami. Taka forma grodziska charakterystyczna jest dla wczesnożelaznych osiedli obronnych kultury kurhanów zachodniobałtyjskich. ",
-     "img":"/grodziska/wopy_5/img/Wopy_5_NMT.jpg",
-     "link":"/grodziska/wopy_5/index.html",
-     "icon":"/img/grodzisko.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.173611,54.280278,0 ]
-     },
-     "properties": {
-     "title":"Wilknity, st. 1, gm. Lelkowo",
-     "description":"Weryfikacja negatywna.",
-     "img":"/img/empty.png",
-     "link":"/img/sondaz.png",
-     "icon":"/img/sondaz.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.278333,54.1,0 ]
-     },
-     "properties": {
-     "title":"Bieniewo, st. 7, gm. Lubomini",
-     "description":"Weryfikacja negatywna.",
-     "img":"/img/empty.png",
-     "link":"/img/sondaz.png",
-     "icon":"/img/sondaz.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.007222,54.161389,0 ]
-     },
-     "properties": {
-     "title":"Chwalęcin, st. 2, gm. Orneta",
-     "description":"Weryfikacja negatywna.",
-     "img":"/img/empty.png",
-     "link":"/img/sondaz.png",
-     "icon":"/img/sondaz.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 19.953333,54.141667,0 ]
-     },
-     "properties": {
-     "title":"Osetnik, st. 2, gm. Orneta",
-     "description":"Weryfikacja negatywna.",
-     "img":"/img/empty.png",
-     "link":"/img/sondaz.png",
-     "icon":"/img/sondaz.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.099444,54.149722,0 ]
-     },
-     "properties": {
-     "title":"Tawty, st. 1, gm. Orneta",
-     "description":"Weryfikacja negatywna.",
-     "img":"/img/empty.png",
-     "link":"/img/sondaz.png",
-     "icon":"/img/sondaz.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.220556,54.252778,0 ]
-     },
-     "properties": {
-     "title":"Łoźnik, st. 6, gm. Pieniężno",
-     "description":"Weryfikacja negatywna.",
-     "img":"/img/empty.png",
-     "link":"/img/sondaz.png",
-     "icon":"/img/sondaz.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.595278,54.275278,0 ]
-     },
-     "properties": {
-     "title":"Wiewiórki, st. 1, gm. Górowo Iławeckie",
-     "description":"Grodzisko znane było niemieckim badaczom przedwojennym pod nazwą Eichhorn. W 1969 roku stanowisko było weryfikowane przez Dariusza \nCzłonkowskiego.Grodzisko zajmuje półwysep opływany przez rzekę Elmę. Na majdanie nie występuje warstwa kulturowa, lecz materiał zabytkowy znaleziony w złożu wtórnym datowany jest na wczesne średniowiecze oraz wczesną epokę żelaza.",
-     "img":"/grodziska/wiewiorki_1/img/Wiewiorki_1_NMT.jpg",
-     "link":"/grodziska/wiewiorki_1/index.html",
-     "icon":"/img/grodzisko.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.35,54.365,0 ]
-     },
-     "properties": {
-     "title":"Augamy, st. 1, gm. Górowo Iławeckie",
-     "description":"Grodzisko jest zewidencjonowane w ramach AZP i znane było od początku w. jako Schwedenschanzen, Schlossberg, Kleiner Schloßberg oraz Schloßberg. Stanowisko było wykorzystywane już na przełomie ostatnich faz okresu wędrówek ludów i na samym początku tworzenia się organizacji plemiennej Prusów, aż do czasów po podboju krzyżackim. ",
-     "img":"/grodziska/augamy_1/img/Augamy_1_NMT.jpg",
-     "link":"/grodziska/augamy_1/index.html",
-     "icon":"/img/grodzisko.png"
-     }
-   },
-   {
-     "type": "Feature",
-     "geometry": {
-        "type": "Point",
-        "coordinates":  [ 20.566667,54.305556,0 ]
-     },
-     "properties": {
-     "title":"Woryny, st. 1, gm. Górowo iławeckie",
-     "description":"Grodzisko znane było od lat 20. XIX w. pod nazwami Burgwall i Schlossberg. Prawdopodobnie powstało pod koniec XIII lub w XIV w. ",
-     "img":"/grodziska/woryny_1/img/Woryny_1_NMT.jpg",
-     "link":"/grodziska/woryny_1/index.html",
-     "icon":"/img/grodzisko.png"
-     }
-   },
-   { "type": "Feature", "properties": {
-      "title": "Gładysze, st. 1, gm. Wilczęta",
-      "description": "Grodzisko cyplowe znajduje się wschód od wsi Gładysze i zajmuje wyniesienie wznoszące się na około 20 m ponad rozlewiskiem rzeki Pasłęki. Walory obronne stanowiska, poza dwoma liniami wałów i fosą odcinającymi cypel od wysoczyzny, podkreślają dwa głębokie jary ograniczające stanowisko od północy i południa. Dotychczasowe badania opisywały stanowisko, jako pruskie. Najnowsze weryfikacje pozwalają uszczegółowić chronologię o fazę datowaną na schyłek epoki brązu.",
-      "img": "/grodziska/gladysze_1/img/ryc1.jpg",
-      "link": "/grodziska/gladysze_1/index.html",
-      "icon": "/img/grodzisko.png"
-    }, "geometry": { "type": "Point", "coordinates": [ 19.941591868076678, 54.160767796522052 ] } },
-{ "type": "Feature", "properties": {
-      "title": "Gładysze, st. 2, gm. Wilczęta",
-      "description": "Grodzisko cyplowe dotąd nieznane. Znajduje się na wschód od wsi Gładysze, w odległości około 300 m na północ od grodziska Gładysze, st. 1. Oba stanowiska oddziela od siebie głęboki jar, którym płynie dopływ Pasłęki. Obszar cypla od wysoczyzny oddziela jeden wał i fosa o nieznacznych rozmiarach. Stanowisko wstępnie datowane na okres wczesnego średniowiecza.",
-      "img": "/grodziska/gladysze_2/img/ryc1.jpg",
-      "link": "/grodziska/gladysze_2/index.html",
-      "icon": "/img/grodzisko.png"
-    }, "geometry": { "type": "Point", "coordinates": [ 19.940427295963428, 54.163036759794885 ] } },
-{ "type": "Feature", "properties": {
-      "title": "Gładysze, st. 3, gm. Wilczęta",
-      "description": "&nbsp;",
-      "img": "/img/empty.png",
-      "link": "/img/sondaz.png",
-      "icon": "/img/sondaz.png"
-    }, "geometry": { "type": "Point", "coordinates": [ 19.93783491336011, 54.146988147105304 ] } },
-{ "type": "Feature", "properties": {
-      "title": "Gładysze, st. 4, gm. Wilczęta",
-      "description": "&nbsp;",
-      "img": "/img/empty.png",
-      "link": "/img/sondaz.png",
-      "icon": "/img/sondaz.png"
-    }, "geometry": { "type": "Point", "coordinates": [ 19.935179228775915, 54.14332165025899 ] } },
-   { "type": "Feature", "properties": {
-      "title": "Wokiele, st. 1, gm. Górowo Iławeckie",
-      "description": "Grodzisko zajmuje niewielkie wyniesienie położone w bezpośrednim sąsiedztwie rzeki Elmy, której wody opływają je od południa, a częściowo także od wschodu i zachodu. Majdan i umocnienia dobrze widoczne od strony zachodniej. Część wschodnia częściowo zniszczona przez młodsze młynisko. Stanowisko datowane na okres średniowiecza.",
-      "img": "/grodziska/wokiele_1/img/ryc1.jpg",
-      "link": "/grodziska/wokiele_1/index.html",
-      "icon": "/img/grodzisko.png"
-    }, "geometry": { "type": "Point", "coordinates": [ 20.550498673899035, 54.342832069054872 ] } },
-   { "type": "Feature", "properties": {
-      "title": "Słonecznik - Zamkowy Ostrów, gm. Morąg",
-      "description": "Grodzisko położone na wyspie Jeziora Bartężek, w odległości około 1,2 km na północ od grodziska Winiec, st. 2. Częściowo zniszczone, zapewne w wyniku prac związanych z budową Kanału Elbląskiego. Materiał zabytkowy odnajdowany na powierzchni stanowiska pozwala wyznaczyć jego chronologię na wczesną epokę żelaza.",
-      "img": "/grodziska/slonecznik/img/ryc1.jpg",
-      "link": "/grodziska/slonecznik/index.html",
-      "icon": "/img/grodzisko.png"
-    }, "geometry": { "type": "Point", "coordinates": [ 19.83709065824014, 53.838906893871339 ] } }, 
-   { "type": "Feature", "properties": {
-      "title": "Winiec, st. 2, gm. Miłomłyn",
-      "description": "Grodzisko uwzględnione na mapie Emila Hollacka z 1908 roku ale do niedawna nie znajdujące się w obecnej ewidencji zabytków archeologicznych. Majdan grodziska otoczony jest co najmniej trzema liniami wałów i fos i zajmujące wysokie wyniesienie przy zachodnim brzegu Jeziora Bartężek. Główną fazę funkcjonowania stanowiska można datować na wczesną epokę żelaza. Fazę młodszą wyznaczają ruiny dziewiętnastowiecznego domku myśliwskiego, które znajdują się w południowo-zachodniej części majdanu.",
-      "img": "/grodziska/winiec_2/img/ryc1.jpg",
-      "link": "/grodziska/winiec_2/index.html",
-      "icon": "/img/grodzisko.png"
-    }, "geometry": { "type": "Point", "coordinates": [ 19.838665103095423, 53.827745785434011 ] } },
-   { "type": "Feature", "properties": {
-      "title": "Wysoka Wieś, st. 9, gm. Ostróda",
-      "description": "Duże grodzisko położone w odległości około 600 m na południe od grodziska Wysoka Wieś, st. 7. Zajmuje masywne wyniesienie, na którego szczycie znajduje się majdan, a którego stoki uformowano w szerokie tarasy. Wstępne wyniki badań wskazują, że stanowisko funkcjonowało we wczesnej epoce żelaza.",
-      "img": "/grodziska/wysoka_wies_9/img/ryc1.jpg",
-      "link": "/grodziska/wysoka_wies_9/index.html",
-      "icon": "/img/grodzisko.png"
-    }, "geometry": { "type": "Point", "coordinates": [ 19.989006270207113, 53.547033813802045 ] } },
-    { "type": "Feature", "properties": {
-      "title": "Wysoka Wieś, st. 8, gm. Ostróda",
-      "description": "Grodzisko dość dobrze czytelne w terenie. Owalny majdan otoczony jest trzema wałami i dwiema fosami. Najstarsza faza związana była z budową umocnień i użytkowaniem osiedla obronnego we wczesnej epoce żelaza. Badania wykazały, że wały miały konstrukcję ziemną z miejscowo występującymi skupiskami kamieni. Na podstawie analiz ceramiki oraz dat uzyskanych z radiodatowania (IV–III w. p. n. e) stanowisko powiązano z ludnością kultury kurhanów zachodniobałtyjskich.",
-      "img": "/grodziska/wysoka_wies_8/img/WysokaWies_8_NMT.jpg",
-      "link": "/grodziska/wysoka_wies_8/index.html",
-      "icon": "/img/grodzisko.png"
-    }, "geometry": { "type": "Point", "coordinates": [ 19.965413876926974, 53.52903242022108 ] } },
-    { "type": "Feature", "properties": {
-      "title": "Wysoka Wieś, st. 7, gm. Ostróda",
-      "description": "Niewielkie grodzisko otoczone co najmniej trzema liniami dookolnych wałów i fos, położone we wschodniej części Wzgórz Dylewskich. Stanowisko silnie zniszczone w wyniku gospodarki leśnej. Powstałe i funkcjonujące we wczesnej epoce żelaza.",
-      "img": "/grodziska/wysoka_wies_7/img/ryc1.jpg",
-      "link": "/grodziska/wysoka_wies_7/index.html",
-      "icon": "/img/grodzisko.png"
-    }, "geometry": { "type": "Point", "coordinates": [ 19.986492613042572, 53.552188007808567 ] } }
- ]
- }
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Ornowo, st. 3, gm. Ostróda",
+                "img": "/grodziska/ornowo_3/img/Ornowo_3_NMT.jpg",
+                "link": "/grodziska/ornowo_3/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Stanowisko jest obiektem o rozbudowanej chronologii obejmującej okresy od neolitu, przez wczesną i późną epokę brązu, wczesną epokę żelaza, aż po wczesne średniowiecze, przy czym dla dwóch najmłodszych okresów można mówić już o obiekcie umocnionym. Znane co najmniej od początku XIX w. jako Lischaken, Kr. Osterode; Leschaken, Kr. Osterode; Schwedenschanze oraz Schneckenberg. Grodzisko było badane wykopaliskowo w latach 1965–1966, pod kierownictwem R. Odoja i B. Wawrzykowskiej. Kolejne badania realizował w latach 2011– 2012 Instytut Archeologii UMK w Toruniu. Grodzisko leży na cyplowatym wzniesieniu nad potokiem Morlińska Struga. Majdan otoczony jest dobrze zachowanym wałem. Najstarsze ślady umocnień należy wiązać z kulturą kurhanów zachodniobałtyjskich. Kolejna czytelna faza osadnicza nastąpiła w okresie wczesnego średniowiecza. "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.969009,
+                    53.668775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Boreczno, st. 8, gm. Zalewo",
+                "img": "/grodziska/boreczno_8/img/Boreczno_8_NMT.jpg",
+                "link": "/grodziska/boreczno_8/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko do tej pory nie znane. Położone na zachodnim brzegu bezimiennego potoku łączącego jeziora Młynek i Piekło. Zajmuje wyeksponowany cypel, odcięty od wysoczyzny dwoma wałami i trzema fosami. Stanowisko było użytkowane od schyłku La Tène A przez La Tène B."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.717302,
+                    53.794519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Nowa Wieś Iławiecka, st. 1, gm. Górowo Iławeckie",
+                "img": "/img/empty.png",
+                "link": "/img/sondaz.png",
+                "icon": "/img/sondaz.png",
+                "description": "Weryfikacja negatywna. W ewidencji AZP stanowisko opisane jako grodzisko. Poza nagrobkami z końca XIX i pierwszej połowy XX w na powierzchni cypla brak jest jakichkolwiek innych antropogenicznych form krajobrazu. W trakcie badań, zarówno wykopaliskowych, jak i powierzchniowych, nie zarejestrowano na obszarze cypla warstw kulturowych, które można by wiązać z funkcjonowaniem grodziska."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.609,
+                    54.320884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Zielenica, st. 15, gm. Górowo Iławeckie",
+                "img": "/img/empty.png",
+                "link": "/img/sondaz.png",
+                "icon": "/img/sondaz.png",
+                "description": "Weryfikacja negatywna. "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.527093,
+                    54.249984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Piaseczno, st. 1, gm. Górowo Iławeckie",
+                "img": "/img/empty.png",
+                "link": "/img/sondaz.png",
+                "icon": "/img/sondaz.png",
+                "description": "Weryfikacja negatywna. W ewidencji AZP grodzisko stożkowe wiązane było z osadnictwem krzyżackim i datowane na około XIII."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.559883,
+                    54.221248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Zamkowa Góra w Leśnictwie Orsy",
+                "img": "/img/empty.png",
+                "link": "/img/sondaz.png",
+                "icon": "/img/sondaz.png",
+                "description": "Weryfikacja negatywna. Podczas badań wykopaliskowych nie natrafiono na warstwy kulturowe starsze niż XX w."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.408958,
+                    54.34252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Piasty Wielkie, st. 3, gm. Górowo Iławeckie",
+                "img": "/grodziska/piasty_wielkie_3/img/PiastyWielkie_3_NMT.jpg",
+                "link": "/grodziska/piasty_wielkie_3/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Stanowisko bardzo silnie zniszczone."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.515094,
+                    54.274596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Głębock, st. 5, gm. Lelkowo",
+                "img": "/grodziska/glebock_5/img/Głębock_5_NMT.jpg",
+                "link": "/grodziska/glebock_5/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko do tej pory nie było zewidencjonowane w ramach projektu AZP. Znajduje się na wysokim cyplu wcinającym się w dolinę rzeki Szarki. W okresie przedwojennym znane było badaczom niemieckim pod nazwą Alte Schanze. Majdan jest owalny, odcięty od wysoczyzny wałem i fosą. Na obecnym etapie badań można zatem stwierdzić, że w Głębocku z pewnością istniało grodzisko i być może było ono użytkowane w dwóch okresach. "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.283958,
+                    54.372348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Jarzeń, st. 1, gm. Lelkowo",
+                "img": "/grodziska/jarzen_1/img/Jarzen_1_NMT.jpg",
+                "link": "/grodziska/jarzen_1/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko, w okresie przedwojennym znane pod nazwą Lust B. oraz Alte Schanze, zajmuje szczyt niedużego, odosobnionego wyniesienia. Znane jest z map niemieckich z końca dziewiętnastego wieku. Lokalizacja grodziska została ustalona przez Mirosława Jankowskiego w 1990r. Majdan owalny, otoczony pojedynczym pierścieniowatym wałem. Forma i rozmiary odpowiadają założeniom typu gródek stożkowaty lub nieco młodszym dworom na kopcu. Na obecnym etapie badań należałoby przyjąć hipotezę, że w okresie nowożytnym przeprowadzone zostały prace ziemne mające na celu uformowanie umocnień na szczycie wyniesienia znajdującego się na południe od wsi Jarzeń, tak aby mógł być on bazą dla siedziby szlacheckiej. Przeprowadzone wykopaliska nie wykazały jednak, aby taka siedziba powstała."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.313078,
+                    54.37142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Wilknity, st. 6, gm. Lelkowo",
+                "img": "/grodziska/wilknity_6/img/Wilknity_6_NMT.jpg",
+                "link": "/grodziska/wilknity_6/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko nie było do tej pory zewidencjonowane w ramach AZP. Znane było badaczom niemieckim, którzy łączyli je z obszarem Mehlsacker Staadtheide. Grodzisko zajmuje szczyt niedużego, trójkątnego w podstawie wypiętrzenia. Majdan jest silnie zniszczony w wyniku grabieżczego wybierania piasku. Otoczony jest wałem oraz znajdującymi się poniżej niego dwoma tarasami ze szczątkowo zachowanymi wałami. Umocnienia powstały we wczesnej epoce żelaza. Na podstawie analiz ceramiki oraz radiodatowania można powiązać je z ludnością kultury kurhanów zachodniobałtyjskich."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.219121,
+                    54.274079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Orneta, st. 7, gm. Orneta",
+                "img": "/grodziska/orneta_7/img/Orneta_7_NMT.jpg",
+                "link": "/grodziska/orneta_7/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko było zewidencjonowane w ramach AZP, ale jego lokalizacja nie została zaznaczona w Karcie Ewidencji Stanowiska Archeologicznego, pomimo tego, że informacje o nim pojawiały się w różnego rodzaju dokumentach niemieckich. Weryfikację terenową stanowiska przeprowadziła Barbara Czarnecka w 1969 oraz Maria Pikulińska Ciuk w 1970. Wyniesienie, na którym znajduje się grodzisko, zlokalizowane jest w obrębie doliny Drwęcy Warmińskiej. Przeprowadzona analiza zdjęć lotniczych i Numerycznego Modelu Terenu wskazuje, że na obszarze omawianego wyniesienia mogło znajdować się złożone założenie architektoniczne, na które składały się co najmniej dwa budynki – jeden na planie zbliżonym do koła na szczycie wyniesienia i zespół mniejszych na łagodnym stoku wyniesienia po stronie północnej. Wyniesienie było najpewniej zaopatrzone w nieduży wał. Faktyczną funkcję omawianego obiektu określa jednak najpewniej dokument z 1384 roku informujący o „Leprosorio sancti Georgij, extra muros ibidem situatis”. Wspomniane „Leprosorio” (pod wezwaniem św. Jerzego) to leprozorium, czyli zamknięty dom dla chorych na trąd. W zbliżonym okresie ufundowano w Prusach więcej tego typu schronień: w Braniewie w 1378 roku, w Dobrym Mieście i Fromborku w 1379 roku. Z dużą dozą prawdopodobieństwa można więc zinterpretować opisany obiekt obronny z poświadczonym w źródłach pisanych przytułkiem dla trędowatych. Od tego obiektu mogła wziąć się dawna nazwa tutejszego lasu – Hospital Heide."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.142692,
+                    54.122678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Giedyle, st. 1, gm. Płoskinia",
+                "img": "/grodziska/giedyle_1/img/Giedyle_1_NMT.jpg",
+                "link": "/grodziska/giedyle_1/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko badaczom niemieckim znane było od co najmniej początku XIX wieku pod nazwą Pantenberg. Zajmuje koniec szerokiego cypla na wschodnim, wysokim brzegu doliny rzeki Pasłęki. Majdan wydzielony jest za pomocą wału i równolegle ułożonej względem niego fosy. Stanowisko miało co najmniej 2 fazy użytkowania. Faza I związana jest z osadnictwem ludności pruskiej około X w. Faza II, związana była z budową wału ziemnego i równoległej względem niego fosy. Ze względu na brak radiodatowania konstrukcji, można jedynie postawić hipotezę bazującą na analizie formy umocnień. Taka konstrukcja wału nie jest charakterystyczna dla typowych fortyfikacji wznoszonych przez Zakon Krzyżacki. Mógł być więc to szaniec usypany przez ludność pruską w momencie pojawienia się zagrożenia ze strony krzyżaków w celu obrony pobliskiego brodu jako strategicznego miejsca. Z drugiej strony mógł to być jednak tymczasowy fort wybudowany przez Krzyżaków po zajęciu tego terytorium. Miałby on zabezpieczyć drogę ewentualnej ewakuacji. Niezależnie więc od tego, kto umocnienia zbudował, prawdopodobnie powstały one w momencie najazdu Krzyżaków na te ziemie, co można datować na około połowę XIII wieku. Po opuszczeniu umocnień, obszar grodziska przestał pełnić funkcje obronne."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.915567,
+                    54.246911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Opin, st. 16, gm. Orneta",
+                "img": "/grodziska/opin_16/img/Opin_16_NMT.jpg",
+                "link": "/grodziska/opin_16/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko do tej pory nie było zewidencjonowane w ramach AZP. zajmuje cypel wchodzący w dolinę rzeki Lubomirska Struga. Majdan uległ prawie całkowitemu zniszczeniu w wyniku podmywania przez rzekę i jest odcięty od wysoczyzny za pomocą trzech wałów rozdzielonych dwiema suchymi fosami. Stanowisko należy łączyć z osadnictwem kultury kurhanów zachodbiobałtyjskich."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.200986,
+                    54.097417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Dąbrowa, st. 8, gm. Płoskinia",
+                "img": "/grodziska/dabrowa_8/img/Dąbrowa_8_NMT.jpg",
+                "link": "/grodziska/dabrowa_8/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko nie było do tej pory zewidencjonowane w ramach AZP, ale wymieniane jest w literaturze od lat osiemdziesiątych XX wieku. Grodzisko leży bezpośrednio na północny wschód od wczesnożelaznego cmentarzyska kurhanowego. Zajmuje wąski, wysoki cypel na wschodnim brzegu Jeziora Pierzchalskiego, odcięty od wysoczyzny za pomocą trzech linii wałów i fos. Wał otaczający majdan jest dobrze widoczny w terenie. Badania wykopaliskowe wykazały, że umocnienia powstały we wczesnej epoce żelaza i można je powiązać z kulturą kurhanów zachodniobałtyjskich. Założenie ma analogiczną formę co oddalone od niego o 1,3 grodzisko w Dąbrowie, st. 9."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.866139,
+                    54.248541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Dąbrowa, st. 9, gm. Płoskinia",
+                "img": "/grodziska/dabrowa_9/img/Dąbrowa_9_NMT.jpg",
+                "link": "/grodziska/dabrowa_9/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko nie było do tej pory zewidencjonowane w ramach projektu AZP. Stanowisko leży na wysokim wyeksponowanym cyplu wchodzącym od północy w dolinę rzeki Pasłęki. Majdan odcięty jest od wysoczyzny za pomocą systemu wałów, rozdzielonych suchymi fosami. W terenie bardzo dobrze czytelne są dwa wały. Zasiedlane było w dwóch kolejnych okresach. Najstarsze umocnienia datować można na przełom okresu halsztackiego i lateńskiego. Ceramika na stanowisku nosi cechy diagnostyczne dla kultury kurhanów zachodniobałtyjskich. Założenie ma analogiczną formę co oddalone od niego o 1,3 km na zachód grodzisko w Dąbrowie, st. 8."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.886239,
+                    54.245065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Bornity, st. 12, gm. Pieniężno",
+                "img": "/grodziska/bornity_12/img/Bornity_12_NMT.jpg",
+                "link": "/grodziska/bornity_12/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko utworzono odcinając nieduży cypel od wysoczyzny za pomocą systemu trzech wałów i dwóch suchych fos. Od strony wschodniej i zachodniej cypel ograniczają dwa wąwozy. Funkcjonowało na przełomie IX i X wieku. Kolejna faza osadnicza nastąpiła po dłuższej przerwie, dopiero w późnym średniowieczu."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.032847,
+                    54.203454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Wojnity, st. 1, gm. Pieniężno",
+                "img": "/grodziska/wojnity_1/img/Wojnity_1_NMT.jpg",
+                "link": "/grodziska/wojnity_1/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko znane badaczom niemieckim od początku XIX wieku pod nazwami Burgwall, Schwedenschanzen oraz Fliehburg, położone jest na wysokim cyplu nad brzegiem bezimiennego strumienia wpadającego do rzeki Wałszy. Grodzisko posiada dwa wały i fosę. Wał zewnętrzny wraz z fosą odcina cypel od wysoczyzny. Grodzisko zasiedlone było przez ludność pruską w IX–X w. Młodszy okres osadnictwa średniowiecznego należy wiązać z falą osadnictwa krzyżackiego. Być może więc na obszarze grodziska w Wojnitach planowane było założenie miasta, ale plan ten nie został zrealizowany."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.087955,
+                    54.205069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Pieniężno (Kajnity), st. 2, gm. Pieniężno",
+                "img": "/grodziska/pieniezno/img/Pieniezno_NMT.jpg",
+                "link": "/grodziska/pieniezno/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko w Pieniężnie było zewidencjonowane w ramach AZP, ale jego lokalizacja wskazana była w innym miejscu. Znane było badaczom niemieckim od początku XIX wieku. Prawdopodobnie był to umocniony dworek rycerski, który został zniszczony podczas prac związanych z budową leśniczówki."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.11025,
+                    54.230869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Kajnity, st. 1, gm. Pieniężno",
+                "img": "/grodziska/kajnity_1/img/Kajnity_1_NMT.jpg",
+                "link": "/grodziska/kajnity_1/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko znane było badaczom niemieckim od początku XIX w. pod nazwami Spitze berg, Spitzberg i  Spitz-B. Stanowisko leży na szczycie masywnego wypiętrzenia w dolinie rzeki Wałszy i zostało częściowo podmyte. Na jego szczycie uchwycono w trakcie badań prawdopodobnie relikt kamiennego fundamentu, jednak brak źródeł nie pozwala na wydatowanie tego obiektu. Włożenie pracy w uformowanie podwyższenia, które dodatkowo mogło podkreślać rangę obiektu, który miałby się na nim znajdować, może sugerować, że był to gródek typu motte."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.101891,
+                    54.224491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Lubianka, st. 6, gm. Pieniężno",
+                "img": "/grodziska/lubianka_6/img/Lubianka_6_NMT.jpg",
+                "link": "/grodziska/lubianka_6/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Stanowisko znane niemieckim badaczom przedwojennym pod nazwami Schloss Plut, Wallberg i Pluta Berg. Na początku XIV wieku w Plutach wybudowano zamek, którego fundatorem była kapituła warmińska. Najstarszy horyzont osadniczy można datować na wczesną epokę żelaza. Kolejna faza związana jest ze wczesnym średniowieczem i budową fortyfikacji."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.285401,
+                    54.253994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Wopy, st. 5, gm. Pieniężno",
+                "img": "/grodziska/wopy_5/img/Wopy_5_NMT.jpg",
+                "link": "/grodziska/wopy_5/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko nie było do tej pory zewidencjonowane w ramach AZP. Stanowisko ajmuje szczyt wysokiego wyniesienia nad Wałszą. Majdan otoczony jest dwoma wałami. Taka forma grodziska charakterystyczna jest dla wczesnożelaznych osiedli obronnych kultury kurhanów zachodniobałtyjskich. "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.345237,
+                    54.242715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Wilknity, st. 1, gm. Lelkowo",
+                "img": "/img/empty.png",
+                "link": "/img/sondaz.png",
+                "icon": "/img/sondaz.png",
+                "description": "Weryfikacja negatywna."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.173796,
+                    54.280405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Bieniewo, st. 7, gm. Lubomini",
+                "img": "/img/empty.png",
+                "link": "/img/sondaz.png",
+                "icon": "/img/sondaz.png",
+                "description": "Weryfikacja negatywna."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.278502,
+                    54.101388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Chwalęcin, st. 2, gm. Orneta",
+                "img": "/img/empty.png",
+                "link": "/img/sondaz.png",
+                "icon": "/img/sondaz.png",
+                "description": "Weryfikacja negatywna."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.007511,
+                    54.161524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Osetnik, st. 2, gm. Orneta",
+                "img": "/img/empty.png",
+                "link": "/img/sondaz.png",
+                "icon": "/img/sondaz.png",
+                "description": "Weryfikacja negatywna."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.953443,
+                    54.141792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Tawty, st. 1, gm. Orneta",
+                "img": "/img/empty.png",
+                "link": "/img/sondaz.png",
+                "icon": "/img/sondaz.png",
+                "description": "Weryfikacja negatywna."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.099586,
+                    54.149659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Łoźnik, st. 6, gm. Pieniężno",
+                "img": "/img/empty.png",
+                "link": "/img/sondaz.png",
+                "icon": "/img/sondaz.png",
+                "description": "Weryfikacja negatywna."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.220618,
+                    54.252226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Wiewiórki, st. 1, gm. Górowo Iławeckie",
+                "img": "/grodziska/wiewiorki_1/img/Wiewiorki_1_NMT.jpg",
+                "link": "/grodziska/wiewiorki_1/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko znane było niemieckim badaczom przedwojennym pod nazwą Eichhorn. W 1969 roku stanowisko było weryfikowane przez Dariusza \nCzłonkowskiego.Grodzisko zajmuje półwysep opływany przez rzekę Elmę. Na majdanie nie występuje warstwa kulturowa, lecz materiał zabytkowy znaleziony w złożu wtórnym datowany jest na wczesne średniowiecze oraz wczesną epokę żelaza."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.595436,
+                    54.275454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Augamy, st. 1, gm. Górowo Iławeckie",
+                "img": "/grodziska/augamy_1/img/Augamy_1_NMT.jpg",
+                "link": "/grodziska/augamy_1/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko jest zewidencjonowane w ramach AZP i znane było od początku w. jako Schwedenschanzen, Schlossberg, Kleiner Schloßberg oraz Schloßberg. Stanowisko było wykorzystywane już na przełomie ostatnich faz okresu wędrówek ludów i na samym początku tworzenia się organizacji plemiennej Prusów, aż do czasów po podboju krzyżackim. "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.352089,
+                    54.365086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Woryny, st. 1, gm. Górowo iławeckie",
+                "img": "/grodziska/woryny_1/img/Woryny_1_NMT.jpg",
+                "link": "/grodziska/woryny_1/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko znane było od lat 20. XIX w. pod nazwami Burgwall i Schlossberg. Prawdopodobnie powstało pod koniec XIII lub w XIV w. "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.568141,
+                    54.305782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Gładysze, st. 1, gm. Wilczęta",
+                "img": "/grodziska/gladysze_1/img/Gładysze_1_NMT.jpg",
+                "link": "/grodziska/gladysze_1/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko cyplowe znajduje się wschód od wsi Gładysze i zajmuje wyniesienie wznoszące się na około 20 m ponad rozlewiskiem rzeki Pasłęki. Znane było niemieckim basaczom przedwojennym. Walory obronne stanowiska, poza dwoma liniami wałów i fosą odcinającymi cypel od wysoczyzny, podkreślają dwa głębokie jary ograniczające stanowisko od północy i południa. Dotychczasowe badania opisywały stanowisko jako pruskie. Najnowsze weryfikacje pozwalają uszczegółowić chronologię o fazę datowaną na schyłek epoki brązu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.941591868076678,
+                    54.16076779652205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Gładysze, st. 3, gm. Wilczęta",
+                "img": "/grodziska/gladysze_3/img/Gładysze_3_NMT.jpg",
+                "link": "/grodziska/gladysze_3/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko zajmuje nieduży cypel nad Dobrską Strugą, odcięte od wysoczyzny za pomocą niedużego wału i suchej fosy, które są słabo czytelne w terenie. Data radiowęglowa pozyskana z próby węgla z wypełniska fosy dała wynik VIII–V w. p. n. e. Określenie dokładnej afiliacji kulturowej ludności, która zbudowała i zamieszkiwała osiedle obronne w Gładyszach, na obecnym etapie badań wydaje się niemożliwe i konieczne są dalsze badania. Warte odnotowania jest, że w warstwie erozyjnej na stoku cypla i brzegu rzeki znajduje się wychodnia krzemienia bałtyckiego."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.93783491336011,
+                    54.146988147105304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Wokiele, st. 1, gm. Górowo Iławeckie",
+                "img": "/grodziska/wokiele_1/img/ryc1.jpg",
+                "link": "/grodziska/wokiele_1/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko zajmuje niewielkie wyniesienie położone w bezpośrednim sąsiedztwie rzeki Elmy, której wody opływają je od południa, a częściowo także od wschodu i zachodu. Znane było co najmniej od lat 20. XIX w. pod nazwami Schwedenschanze oraz Kaddicksberg. Majdan i umocnienia dobrze widoczne od strony zachodniej. Część wschodnia częściowo zniszczona przez młodsze młynisko.We wczesnej epoce żelaza, szacunkowo od okresu halsztackiego D aż po okres lateński C, funcjonowało tu osiedle obronne."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.550498673899035,
+                    54.34283206905487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Słonecznik, st. 1 (Zameczny Ostrów), gm. Morąg",
+                "img": "/grodziska/slonecznik/img/ryc1.jpg",
+                "link": "/grodziska/slonecznik/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko położone na wyspie Jeziora Bartężek, w odległości około 1,2 km na północ od grodziska Winiec, st. 2. Częściowo zniszczone, zapewne w wyniku prac związanych z budową Kanału Elbląskiego. Materiał zabytkowy odnajdowany na powierzchni stanowiska pozwala wyznaczyć jego chronologię na wczesną epokę żelaza."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.83709065824014,
+                    53.83890689387134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Winiec, st. 2, gm. Miłomłyn",
+                "img": "/grodziska/winiec_2/img/ryc1.jpg",
+                "link": "/grodziska/winiec_2/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko uwzględnione na mapie Emila Hollacka z 1908 roku ale do niedawna nie znajdujące się w obecnej ewidencji zabytków archeologicznych. Majdan grodziska otoczony jest co najmniej trzema liniami wałów i fos i zajmujące wysokie wyniesienie przy zachodnim brzegu Jeziora Bartężek. Główną fazę funkcjonowania stanowiska można datować na wczesną epokę żelaza. Fazę młodszą wyznaczają ruiny dziewiętnastowiecznego domku myśliwskiego, które znajdują się w południowo-zachodniej części majdanu."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.838665103095423,
+                    53.82774578543401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Wysoka Wieś, st. 9, gm. Ostróda",
+                "img": "/grodziska/wysoka_wies_9/img/ryc1.jpg",
+                "link": "/grodziska/wysoka_wies_9/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Duże grodzisko położone w odległości około 600 m na południe od grodziska Wysoka Wieś, st. 7. Zajmuje masywne wyniesienie, na którego szczycie znajduje się majdan, a którego stoki uformowano w szerokie tarasy. Wstępne wyniki badań wskazują, że stanowisko funkcjonowało we wczesnej epoce żelaza."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.989006270207113,
+                    53.547033813802045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Wysoka Wieś, st. 8, gm. Ostróda",
+                "img": "/grodziska/wysoka_wies_8/img/WysokaWies_8_NMT.jpg",
+                "link": "/grodziska/wysoka_wies_8/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Grodzisko dość dobrze czytelne w terenie. Owalny majdan otoczony jest trzema wałami i dwiema fosami. Najstarsza faza związana była z budową umocnień i użytkowaniem osiedla obronnego we wczesnej epoce żelaza. Badania wykazały, że wały miały konstrukcję ziemną z miejscowo występującymi skupiskami kamieni. Na podstawie analiz ceramiki oraz dat uzyskanych z radiodatowania (IV–III w. p. n. e) stanowisko powiązano z ludnością kultury kurhanów zachodniobałtyjskich.   "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.965413876926974,
+                    53.52903242022108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Wysoka Wieś, st. 7, gm. Ostróda",
+                "img": "/grodziska/wysoka_wies_7/img/ryc1.jpg",
+                "link": "/grodziska/wysoka_wies_7/index.html",
+                "icon": "/img/grodzisko.png",
+                "description": "Niewielkie grodzisko otoczone co najmniej trzema liniami dookolnych wałów i fos, położone we wschodniej części Wzgórz Dylewskich. Stanowisko silnie zniszczone w wyniku gospodarki leśnej. Powstałe i funkcjonujące we wczesnej epoce żelaza."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.98649261304257,
+                    53.55218800780857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Różaniec, st. 2, gm. Pieniężno",
+                "img": "/img/empty.png",
+                "link": "/img/sondaz.png",
+                "icon": "/img/sondaz.png",
+                "description": "Weryfikacja negatywna."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.168709,
+                    54.234476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Wilczkowo, st. 1, gm, Lubomino",
+                "img": "/img/empty.png",
+                "link": "/img/sondaz.png",
+                "icon": "/img/sondaz.png",
+                "description": "Weryfikacja negatywna."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.241359,
+                    53.998822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Rogiedle, st. 1, gm. Lubomino",
+                "img": "/img/empty.png",
+                "link": "/img/sondaz.png",
+                "icon": "/img/sondaz.png",
+                "description": "Weryfikacja negatywna."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.28093,
+                    54.02791
+                ]
+            }
+        }
+    ]
+}
