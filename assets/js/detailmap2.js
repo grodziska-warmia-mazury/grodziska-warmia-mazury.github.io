@@ -89,7 +89,7 @@ function drawDetailMap(initFeatureTitle) {
       new ol.layer.Tile({
         title: "LIDAR",
         source: new ol.source.TileWMS({
-          url: 'http://lidar.grodziska-warmia-mazury.pl/cgi-bin/qgis_mapserv.fcgi',
+          url: 'https://lidar.grodziska-warmia-mazury.pl/cgi-bin/qgis_mapserv.fcgi',
           params: {'layers': 'lidar'}
         }),
         visible: false
